@@ -1,0 +1,2765 @@
+[
+    {
+        "cliente": "Tainara",
+        "tranferencia": null,
+        "contato": "",
+        "description": "19149232000215\nElgin i9\n\nTeam\n794515158\nw2x6ihqf\n\nImpressora estava com erro nos drivers depois de um problema na memoria do PC, realizei a configuração da impressora para RAW e deu certo.\nModelo: ELGIN i9",
+        "CNPJ": "19149232000215",
+        "build": "21946",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "Felipe",
+        "tranferencia": null,
+        "contato": "",
+        "description": "02797418000105\nhmpztu48\n\nPassei a rotina de Integração NFe/NFse logo depois o cliente tentou reenviar a nota e deu certo.\n\n",
+        "CNPJ": "02797418000105",
+        "build": "",
+        "assunto": "SysPDV - Não consigo emitir notas"
+    },
+    {
+        "cliente": "Deirivan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "05883441000100\nImpressora\nMF-e\nElgin i9\nELGIN i9(USB)\n- \nRealizado a alteração na tabela caixa para tirar o erro de \"Este programa não pode ser executado neste computador\", realizado as configurações no docgate pois o caixa usava MFe compartilhada e deu tudo certo.\nNumero do Caixa: 003",
+        "CNPJ": "05883441000100",
+        "build": "",
+        "assunto": "SysPDV - Troquei o HD por um SSD no caixa"
+    },
+    {
+        "cliente": "Pedro",
+        "tranferencia": null,
+        "contato": "",
+        "description": "05490568000151\nTeam - Servidor\n632033348\n34893300\n\nCliente estava com o errro Value 'reasons' not found, em contato com a revenda verificamos a possibilidade do problema está no certificado digital do cliente. A revenda ficou de reinstalar o certificado e entrar e contato caso não funcione.",
+        "CNPJ": "05490568000151",
+        "build": "25660",
+        "assunto": ""
+    },
+    {
+        "cliente": "Marcos Amd Lan",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Ivan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "29330105000190\n",
+        "CNPJ": "29330105000190",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Carolina",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "l42pro elgin\n\nyw9bxru5",
+        "CNPJ": "33573349000171",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Airton",
+        "tranferencia": null,
+        "contato": "",
+        "description": "143416110\ntgn2xpv5",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - NCM Invalido"
+    },
+    {
+        "cliente": "Mirian",
+        "tranferencia": "Varejo Fácil",
+        "contato": "",
+        "description": "166026756\nejfm9ab9",
+        "CNPJ": "15197959000136",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rodrigo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "03800546000115",
+        "build": "",
+        "assunto": "SysPDV Gaveta"
+    },
+    {
+        "cliente": "Angelina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "362569375\npdvcm\n\n585659683\n9365",
+        "CNPJ": "36209870000201",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Mirla",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Team -\n342040610\n3014\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - MFE"
+    },
+    {
+        "cliente": "Tainam",
+        "tranferencia": null,
+        "contato": "",
+        "description": "d444gk",
+        "CNPJ": "05401230000186",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Dinha",
+        "tranferencia": null,
+        "contato": "",
+        "description": "877966455\n",
+        "CNPJ": "42899358000148",
+        "build": "",
+        "assunto": "SysPDV XML"
+    },
+    {
+        "cliente": "Anderson",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Tanca\n1 122 521 423\n220179526\n13\n\n7965344976",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Preciso fazer a ativação de 3 MFEs"
+    },
+    {
+        "cliente": "Fernanda",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1436758808\nip9s36\n\na57zb4",
+        "CNPJ": "27491650000133",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Ari",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1150836458\npyuk9n",
+        "CNPJ": "14915988000123",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alberto",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1355037791\n",
+        "CNPJ": "45658158000191",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Frederico",
+        "tranferencia": null,
+        "contato": "",
+        "description": "858958397\n8k2apx73\nb99cfkr4",
+        "CNPJ": "37650898000153",
+        "build": "",
+        "assunto": "SysPDV - Caixa não está imprimindo nada"
+    },
+    {
+        "cliente": "Ailton",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Cliente afirma que o sistema está dando um desconto automaticamente no subtotal.\n\n139042343\n4pcxzn8v",
+        "CNPJ": "13043755000115",
+        "build": "",
+        "assunto": "SysPDV - Cliente afirma que o sistema está dando um desconto automaticamente no subtotal"
+    },
+    {
+        "cliente": "André",
+        "tranferencia": null,
+        "contato": "",
+        "description": "NF-e Caiu energia e ficou a emitir\nXMLs Abril, Ac fiscal e inventario\n821024257\nn4jjq879",
+        "CNPJ": "03413504000121",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Bia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1322167591\n61geqkkb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Marcio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "08666776000157",
+        "CNPJ": "08666776000157",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Eduardo",
+        "tranferencia": "Comercial",
+        "contato": "",
+        "description": "CB restaurante\n31201\n\n",
+        "CNPJ": "33764850000115",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Patricia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "659480509\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Samuel",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Atacadão Curió\nmdzc7537\n9536\n2287\n12801",
+        "CNPJ": "03362843000126",
+        "build": "",
+        "assunto": "SysPDV -  NFe com Rejeição"
+    },
+    {
+        "cliente": "Daniel",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "03113892000125",
+        "build": "",
+        "assunto": "SysPDV Tef"
+    },
+    {
+        "cliente": "Marcelo",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "1002584",
+        "CNPJ": "86750569000190",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Silvana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Coli\n19161585000150\n",
+        "CNPJ": "19161585000150",
+        "build": "",
+        "assunto": "SysPDV Muita Coisa"
+    },
+    {
+        "cliente": "Neto",
+        "tranferencia": null,
+        "contato": "",
+        "description": "36209870000112\n\n88709961",
+        "CNPJ": "36209870000112",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Samara",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1ta79p",
+        "CNPJ": "10310042000182",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Francisco",
+        "tranferencia": null,
+        "contato": "",
+        "description": "286249961\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Nonato",
+        "tranferencia": null,
+        "contato": "",
+        "description": "554863696",
+        "CNPJ": "09034929000106",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Milane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Ajudo com envio de XMLS de entrada para contabilidade."
+    },
+    {
+        "cliente": "joao",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "635190\n1003435738\ny74vf6\n33220407968235000110650040000230769020568930\nFalha na autorização: 717 - Rejeicao: NFC-e em operacao nao presencial",
+        "CNPJ": "07968235000110",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Layane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "918093622\n3k9hqk1h\n\n6ads42",
+        "CNPJ": "05559930000101",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "July",
+        "tranferencia": null,
+        "contato": "",
+        "description": "00307249000123\n938701472\nCaixa 001, 002 e 003\n\n1277170726\nuwvw9hj3\nppc30\nyhw34yea\nkduhfqxe\n32693416",
+        "CNPJ": "00307249000123",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Elisangela",
+        "tranferencia": null,
+        "contato": "",
+        "description": "23663",
+        "CNPJ": "14971559000173",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Edinho",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "brunopiaui2014\ncpnk3c8i\nhttp://get.teamviewer.com/syspdv",
+        "CNPJ": "17030442000183",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Felipe",
+        "tranferencia": null,
+        "contato": "",
+        "description": "341817",
+        "CNPJ": "33402853000109",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luis",
+        "tranferencia": null,
+        "contato": "",
+        "description": "atendimento.syspdv@casamagalhaes.com.br",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Renan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Integração MFE com problema\nTanca TM 1000\n007\nubv36q9p\necchhgra\n\nToledo 8217LP-2\n\n6tphvsmz\n\nDBNETLIB\n\nvenda liquida ECF",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "NARIELE",
+        "tranferencia": null,
+        "contato": "",
+        "description": "613145393\n8546\n\nTeclado do notebook com problema",
+        "CNPJ": "43120343000100",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Cristine",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1052695866\n7e8my9\n-\n1062203018\n7cah79\nd9hfm2",
+        "CNPJ": "05071400000101",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Henrique",
+        "tranferencia": null,
+        "contato": "",
+        "description": "era pra fzer no varejo\n",
+        "CNPJ": "08958734000351",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Givison",
+        "tranferencia": null,
+        "contato": "",
+        "description": "492065167\n\n",
+        "CNPJ": "41550666000109",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Marilha",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1091154989\nfw4gutae",
+        "CNPJ": "11913983000254",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Gilvano",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Renildo\n\nBalanca pinpad impressora e biométrico\n295453508\nme78q18y\n02",
+        "CNPJ": "10808850000174",
+        "build": "",
+        "assunto": "SysPDV - Reinstalação do CAIXA"
+    },
+    {
+        "cliente": "Rafael",
+        "tranferencia": null,
+        "contato": "",
+        "description": "858479047\nF529D372B40DBA507EC2FC330D58C991D7443481E258FCD7F4654BADBBE18D0F\n-\nPROPRIO CLIENTE\nDhkMb4xSZ25BWsQ70hukgNEsfoC5y88N8iNNY43EmivReqEpq3tS517caB08RdQo+SccxdlSywY1mFfQMuGfrXogEFhg1q5nrYTfhpu5jDOtS0fTt4cV3LFOzPtw5i1P92h/2PwFDh+UwIHZeLtN7JNrH90xEhIE8CNWux+Kw44Ees3q53i62Dvbc9s/H6r/Wqfp8UrywBEsHrS9+NtpH0kgMquhPPbEv0oC96y5R1gVztubXrXHnmBXHxeYlVWv8qGEbaSi1BPkQTEBoNWIKgCSu9JpgV/bL84zJx+0H01Zo+hXhVOMkYmZGYYYslXYZSr0c3ny1ni5s4FIlSNxzw==\n-\n03966810000276\n065387236\n-\nIMsLLBrG4hGABDiH28kI24JizUvMDVp8LCj4PwIFRZ1KMWP7Zx9N9zYA01Utp4BLpgI0mpqs0OUCTowAy/wweqxTRe+XWdfad+Bhi0J/4A+LNZgCEbr23O0IBb1Fj6ylqSAia8I48fjjRvj4EYyMqqfsoKnzr+iar90M9ifktxTvzwmQKIycHZ+MCcmJTh07BnXLwPMRQrS28zvydhSUznEvjD+PsVs8TpRLvjICQT8mVxKzINizMmtEXgX7obrDqjmXnkkMRQSkVmtbLYEl0PcjXW/yns4R7Zo6G/HSQxc+32Dvu+UvSzaKUprLE4sij6kcVWJyNbu64q0tV7Us8g==",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Andreza",
+        "tranferencia": null,
+        "contato": "",
+        "description": "319912399\n2bj1t6",
+        "CNPJ": "07394984000181",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Pamela",
+        "tranferencia": null,
+        "contato": "",
+        "description": "30588728000147\n\n298230122\ntpwpvv7t\n\n298079979\n\n 192.168.15.181",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Jeová",
+        "tranferencia": null,
+        "contato": "",
+        "description": "588296449\n",
+        "CNPJ": "35023357000170",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Jaqueline",
+        "tranferencia": null,
+        "contato": "",
+        "description": "769916164",
+        "CNPJ": "04705541000176",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Isabele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "11\nCaixa 11 não comunica com o servidor.\nCliente com problema na rede de internet.\nFui informado que já solicitaram a troca de provedor.",
+        "CNPJ": "12354841000186",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Mateus Gomes (PENDENTE)",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Foi realizado a mudança do IP no servidor. E ",
+        "CNPJ": "17624850000163",
+        "build": "26518",
+        "assunto": "SysPDV - Servidor não está abrindo"
+    },
+    {
+        "cliente": "TAISLANE",
+        "tranferencia": null,
+        "contato": "",
+        "description": "p5f1i5\n175",
+        "CNPJ": "02404355000171",
+        "build": "",
+        "assunto": "SysPDV - Nível de acesso"
+    },
+    {
+        "cliente": "Kaylane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1146691644\nayer7amv",
+        "CNPJ": "34552482000104",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Paula",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1088840242\nn2uas71u\n\n1302124567\njp76cpdvcm\n5\n\n\n907734809\nc52gnk81\nvcsxy8ne\n",
+        "CNPJ": "20690641000122",
+        "build": "25960",
+        "assunto": ""
+    },
+    {
+        "cliente": "REGIVALDO",
+        "tranferencia": null,
+        "contato": "",
+        "description": "306992986\n3ntzeive\nhtdy97pp\n\nTanca-Tp650 - TANCA TP-650\nTanca TM1000\nhttps://cfe.sefaz.ce.gov.br/mfe/informacoes/downloads#/\n\nBuild Antiga - 16234",
+        "CNPJ": "",
+        "build": "26556",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "ISABELE ",
+        "tranferencia": null,
+        "contato": "",
+        "description": "613596866\n4qhmeh\n98888.3583\n------------\nServidor: 192.168.1.82\n\nCAIXA\n192.168.1.82\n",
+        "CNPJ": "05330979000180",
+        "build": "",
+        "assunto": "SysPDV -Reinstalaçao"
+    },
+    {
+        "cliente": "Klivia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "294555289\nyes4xti5",
+        "CNPJ": "30128463000102",
+        "build": "",
+        "assunto": "SysPDV - Ajuda com entrada de nota"
+    },
+    {
+        "cliente": "Moises",
+        "tranferencia": null,
+        "contato": "",
+        "description": "7894h1br",
+        "CNPJ": "08225197000179",
+        "build": "24152",
+        "assunto": ""
+    },
+    {
+        "cliente": "NAIARA Casa do Soft",
+        "tranferencia": null,
+        "contato": "",
+        "description": "MFE",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - "
+    },
+    {
+        "cliente": "Raquel",
+        "tranferencia": "Varejo Fácil",
+        "contato": "",
+        "description": "153958389\n",
+        "CNPJ": "40631205000190",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mateus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "192.168.3.3:3000",
+        "CNPJ": "08944851000285",
+        "build": "",
+        "assunto": "SysPDV - Compartilhamento MFE"
+    },
+    {
+        "cliente": "Leticia",
+        "tranferencia": null,
+        "contato": "88998184436",
+        "description": "88998184436\nCAIXA - \n365108024\n6f77g2tx\nSERVDOR - \n1699999079\num88h9",
+        "CNPJ": "",
+        "build": "24246",
+        "assunto": "SysPDV - Meu caixa não recebe carga."
+    },
+    {
+        "cliente": "Danilo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "32796180000156",
+        "CNPJ": "32796180000156",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Lisandra",
+        "tranferencia": null,
+        "contato": "",
+        "description": "311899415\n8649",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "RAISSA",
+        "tranferencia": null,
+        "contato": "",
+        "description": "659455712\nbdsghxhu\n24275",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Carolina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "356596359\nvpgtiett\nctsftufh\n\nlist index out of bounds\nDescrição do Similar",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Erro ao imprimir etiquetas"
+    },
+    {
+        "cliente": "Luana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "ambrosiopadaria7@gmail.com\n85998679205\n\n595298227",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Carga"
+    },
+    {
+        "cliente": "Marcio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "13121556000188\n1028188090\ne4s63v",
+        "CNPJ": "13121556000188",
+        "build": "",
+        "assunto": "SysPDV - XMLs nfce"
+    },
+    {
+        "cliente": "NARCELIA",
+        "tranferencia": null,
+        "contato": "",
+        "description": "74w7g3i3\nBcdedit.exe /set nointegritychecks OFF\n\nTANCA TP-650\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Maiara",
+        "tranferencia": null,
+        "contato": "",
+        "description": "358992670\n896rmr\n\n6\n27",
+        "CNPJ": "00602414000190",
+        "build": "23460",
+        "assunto": "SysPDV - Quero liberar a função de troca (131/) para meus operadores."
+    },
+    {
+        "cliente": "Renato Bruno",
+        "tranferencia": null,
+        "contato": "84999246620",
+        "description": "Passou um compra e passou normal\n1727362849\n",
+        "CNPJ": "12369179000138",
+        "build": "",
+        "assunto": "SysPDV - "
+    },
+    {
+        "cliente": "Luan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "O cliente Luan entrou em contato para solicitar a adição da bandeira AMEX para esta filial. \n\nOs dados de contato são:\n\n \n\nNome: Luan\n\nEmail: luangandhi@gmail.com\nTel: (81) 99636-5231",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Catiussa",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Gardenia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "298079979\n8p84sv",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Pinpad"
+    },
+    {
+        "cliente": "Samuel",
+        "tranferencia": null,
+        "contato": "",
+        "description": "444031432",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Certificado "
+    },
+    {
+        "cliente": "Valmom",
+        "tranferencia": null,
+        "contato": "",
+        "description": "PAGBANK\n11143533000220",
+        "CNPJ": "11143533000220",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Luis",
+        "tranferencia": null,
+        "contato": "",
+        "description": "897105038\nmgwxyeh5",
+        "CNPJ": "39308424000153",
+        "build": "",
+        "assunto": "SysPDV NFCe"
+    },
+    {
+        "cliente": "ARIADNY",
+        "tranferencia": null,
+        "contato": "",
+        "description": "357252121\n5d881344\nTanca TP 550",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Pedro",
+        "tranferencia": null,
+        "contato": "",
+        "description": "a98869bc\n\nG8vGO5JrPphENW3LbGbWKKud1QKjPqV9qcdJA2m8Dx4vPoXwF8KV+HDgSgnbIF4RCY7EzMNOxsJodr9/L3/AbTYm4+1mdnN//QQ3Mqbi42RbVKA8fzjMEzzqQuGozljdySuEiLD2S1gEKPr6/iEEWz/hnGwwVf4X3dU5KaW5GDGlLxCyQNE8PyrUQ+ZlF7s2+DS2jJGDCw80kwMexS2sBieCThNma+NknsMFx5+zwFfEaAGtgBeeABw4PTNrDBjfexg6NxD5e5R++pxKDsm3hobEw2KQ5CQUMlZUVVfIU3mY/9vaPfttSVXfOTtNxbykO2s4hPUMsqlGAskGBOTBIg==",
+        "CNPJ": "20850418000103",
+        "build": "",
+        "assunto": "SysPDV - Erro ao imprimir Cupons"
+    },
+    {
+        "cliente": "Rosangela",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1086952097\n",
+        "CNPJ": "40220509000164",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Bianca",
+        "tranferencia": null,
+        "contato": "",
+        "description": "996036916\n",
+        "CNPJ": "05072812000166",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Aurilene",
+        "tranferencia": null,
+        "contato": "",
+        "description": "kstiqmsb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Aparecida",
+        "tranferencia": null,
+        "contato": "",
+        "description": "567262562\ng4qzgx5a\nritasalvador27@outlook.com",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Pre"
+    },
+    {
+        "cliente": "Eduardo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "636358\n767081\n382AAF.D202BE.A634EE.7192D1.05F892.933731.99D65F\n1564546850",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "A senha de rede não está especificada",
+        "tranferencia": null,
+        "contato": "",
+        "description": "update proprio set PRPCERELE =null, PRPPWDCER=null, PRPNUMSERA3=null;",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Laercio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "215735911\n7gvmrhhq\n02582024000121",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Vitória",
+        "tranferencia": null,
+        "contato": "",
+        "description": "377431048\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Michele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "110061\n9c5nww6a\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vilmo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1043116903\n2755\n\nchave 0 dias tela login",
+        "CNPJ": "10217144000158",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Jailton",
+        "tranferencia": null,
+        "contato": "",
+        "description": "435718816\n62q6wq\n\n23961658000165",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Camila",
+        "tranferencia": null,
+        "contato": "",
+        "description": "lapidarymg@gmail.com\t\n85986530941\n586817",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Regina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "176525736\nk1wdisav",
+        "CNPJ": "",
+        "build": "26420",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Paula",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "37818898000110",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Valter",
+        "tranferencia": null,
+        "contato": "",
+        "description": "2EA282.D87265.796AE5.29C65E.D039B7.8C16DB.7360ED",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Renata",
+        "tranferencia": null,
+        "contato": "",
+        "description": "85996595760\nRENATO\nrenatovfl@hotmail.com\n8040\n782759\n9334\n88095A.696DCF.EA61A5.760C7D.8630A6.417B8D.058C4D\n\n",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Iran",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Troca do HD\n639240\n147057\n\nezxn3u5z",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "João",
+        "tranferencia": null,
+        "contato": "",
+        "description": "633797\n657780\n220230155\navuge6ak",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Werley",
+        "tranferencia": null,
+        "contato": "",
+        "description": "30757\n417608\n38426E.8502D6.A602EC.7D739C.95E822.637709.41D690",
+        "CNPJ": "28480561000154",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Cleiton",
+        "tranferencia": null,
+        "contato": "",
+        "description": "643545",
+        "CNPJ": "45084345000109",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "carina",
+        "tranferencia": "Financeiro",
+        "contato": "",
+        "description": "",
+        "CNPJ": "06865628000136",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mateus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "774128\n164A3A.D322E1.C99690.077862.BB1885.3D61F3.755A1E",
+        "CNPJ": "42112040000175",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rafaela",
+        "tranferencia": null,
+        "contato": "",
+        "description": "38720E.8B0BD6.42770E.7FC5DC.955822.037709.D1D6F2",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ismenia",
+        "tranferencia": "Financeiro",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Kessia",
+        "tranferencia": "Financeiro",
+        "contato": "",
+        "description": "45E777.BF6087.414F14.202076.638DD9.E1DD25.A22EB4",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Livia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "85999512057\ncontato@INTENSITYSHAKE.com.br\t\n637640\nc 757705\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao Paulo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1i1zr2rj",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vaniezia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Trocou a maquina\n16418",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Flavia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "633184",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Lucileide",
+        "tranferencia": "Geração de Chave",
+        "contato": "",
+        "description": "00.458.956/0001-12\n10534\n467161606\nf8th5z2m",
+        "CNPJ": "00468956000112",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Gustavo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "800608",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Daniele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "685024892\n8fy2f321",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Alzira",
+        "tranferencia": null,
+        "contato": "",
+        "description": "x2ennf78\n296998087\nmbakvwqv",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jean",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Mudança de servidor.\n19774\n917083",
+        "CNPJ": "18424843000180",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Edvan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "38079298000140",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Carlos ",
+        "tranferencia": null,
+        "contato": "",
+        "description": "775760\n226222.4873C2.59639E.09CD21.94F5F7.2811D9.5360ED",
+        "CNPJ": "24520216000146",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Bianca",
+        "tranferencia": null,
+        "contato": "",
+        "description": "638758\n383690\nc33cqcwd",
+        "CNPJ": "",
+        "build": "24774",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Magno",
+        "tranferencia": null,
+        "contato": "",
+        "description": "818499\n5fjra634",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mateus Braga",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Trocou o server\n635039\n248788\n713FFE.F89496.4A33A3.2D93A6.278C6D.0C7492.166CD8",
+        "CNPJ": "20384445000120",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Danilo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "92981825642\nsuporte@shopdamaquiagem.top\n075050\n644166\n180447687",
+        "CNPJ": "92981825642",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "tranferencia": null,
+        "contato": "",
+        "description": "279688\n6FCE71.5388EB.E261C0.3AFC48.AD7622.D92B97.71854D\n549989654\n-\nOCORRÊNCIA RELATADA:\n\nPreciso de uma chave para o cliente depois que trocamos o servidor.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave com troca de controle para o cliente como solicitado. \n\n \n\nRESULTADO:\n\nChave gerada com sucesso.\n\n6FCE71.5388EB.E261C0.3AFC48.AD7622.D92B97.71854D",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "tranferencia": null,
+        "contato": "",
+        "description": "31136\nTroca de Servidor segundo a revenda\n",
+        "CNPJ": "28379363000107",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Beatriz",
+        "tranferencia": null,
+        "contato": "",
+        "description": "739447\n1668851488\n5081",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luara",
+        "tranferencia": null,
+        "contato": "8530160458",
+        "description": "9D8F79.930EE2.A0B667.7D730B.4D2C17.302147.61ADD8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Lulene",
+        "tranferencia": null,
+        "contato": "8835123432",
+        "description": "ONLINE-F5",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Silvio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "31431476000100",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Virginia",
+        "tranferencia": "Financeiro",
+        "contato": "",
+        "description": "",
+        "CNPJ": "03875624000140",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Maicon",
+        "tranferencia": null,
+        "contato": "",
+        "description": "606566\n044D32.8C8251.645911.73E703.573D7D.6D82A0.B32A85\n\nf8b843ii",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Guilherme",
+        "tranferencia": null,
+        "contato": "",
+        "description": "806125",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Virginia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Virginia\nCNPJ: 03.875.624/0001-40\nSerie: 636948\nControle: 692151\nMotivo: Renovação",
+        "CNPJ": "03875624000140",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Flavio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Sr Flavio quer uma chave mas não tem como gerar pois consta como INTERROMPIDO o Status do contrato. Falei com o Edlardo e o cliente foi orientado a entrar em contato com os Contratos na segunda para verificar isso.\n28243247000158\n",
+        "CNPJ": "28243247000158",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Raul",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Troca dos computadores",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Vitoria",
+        "tranferencia": null,
+        "contato": "",
+        "description": "616370\nMudança de internet\n015DD1.638624.4E2624.732700.27E5DA.62822B.27BB24",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Tila",
+        "tranferencia": null,
+        "contato": "",
+        "description": "85988356968\nvm-contabil@hotmail.com\nBloqueado ",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Leticia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "ONLINE",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Cleiton",
+        "tranferencia": null,
+        "contato": "",
+        "description": "644164\n616930\n9D8E21.7FE047.D77567.B11A3F.AD97C7.302976.6A6ED8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Luciene",
+        "tranferencia": null,
+        "contato": "",
+        "description": "634056\n434A71.71C620.6CDAAD.1AE07B.638D99.C1AD2A.C82ED8\nvalelupecas@hotmail.com\n001146757196\n u2645wai",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Jean",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Cliente não sabe informar o motivo da mudança\n13564\n807399\n1E9A30.A9923D.59D867.037836.732845.0D6D83.795126",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Osmar",
+        "tranferencia": null,
+        "contato": "",
+        "description": "961105600\nnb8mudp7",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mateus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "642978\n359829\n\n995706422\nkqt918",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "FRANCISCO",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1D9626.4572E1.E02052.05746E.EC98DA.5D6E13.7A3D61",
+        "CNPJ": "03934303000170",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Alex",
+        "tranferencia": null,
+        "contato": "",
+        "description": "17838\n401972.010610.31502D.A1E071.638A12.7DAD8A.C523D8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ismael",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Elis",
+        "tranferencia": null,
+        "contato": "",
+        "description": "\n637456\n953850\n\nek72g1rn",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vania",
+        "tranferencia": null,
+        "contato": "",
+        "description": "635403\n201457613\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mirraila",
+        "tranferencia": null,
+        "contato": "",
+        "description": "446475218\nbq4zc924",
+        "CNPJ": "01137059000270",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Maira",
+        "tranferencia": null,
+        "contato": "",
+        "description": "153809354\nqs5t3vbb\n\nChave de instalação: 115CD475\nChave de instalação: 10C31600\nChave de instalação: 101B9BED\nChave de instalação: A16D75C",
+        "CNPJ": "40251013000158",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Fabio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "13543118000117",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Tatiane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Antonio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "CAIXA 006\n895937706\nCAIXA 005\n411013800\n\n",
+        "CNPJ": "10283983000174",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Tatiane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "222035617\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Consuelo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "one or more errors",
+        "CNPJ": "05603083000127",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Lucia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "audacia.fardamentos@hotmail.com\n85932986829\n834611221\npe9vx3u1",
+        "CNPJ": "03935604000207",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Priscilla",
+        "tranferencia": null,
+        "contato": "",
+        "description": "franrastropneus@hotmail.com\n88999015839\nnv716c",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Moises",
+        "tranferencia": null,
+        "contato": "",
+        "description": "9290\n065995\n\n8j74mg",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Charles",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Mudou a maquina ",
+        "CNPJ": "26075797000180",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Joao",
+        "tranferencia": null,
+        "contato": "",
+        "description": "pk6s33\n\n23/05\nINTERROMPIDO",
+        "CNPJ": "19406356000158",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Vanessa",
+        "tranferencia": null,
+        "contato": "",
+        "description": "754801733\n7aawgvzw\n643622\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Tributação"
+    },
+    {
+        "cliente": "Tiago",
+        "tranferencia": null,
+        "contato": "",
+        "description": "24274",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Subidas de vendas"
+    },
+    {
+        "cliente": "Cris",
+        "tranferencia": null,
+        "contato": "",
+        "description": "723429952\n63g8mh",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Eliel",
+        "tranferencia": null,
+        "contato": "",
+        "description": "c334xt\n3JOGO DE PLACA OFICIAL FABRICADA SBP4E75\nSEDU@MORRINHOS.CE.GOV.BR\nsedu@morrinhos.ce.gov.br",
+        "CNPJ": "07075138001251",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Naiara",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1542030461\n4frtgivg",
+        "CNPJ": "09204104000192",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Welington",
+        "tranferencia": null,
+        "contato": "",
+        "description": "774687197\n7y7f1s31\n\ndn1ebbqi\nan3ptrcs\nehn65h2c\n\nwxcsjpmj",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Claudia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "174751417\n7176\n514007746 - CX012\n442rzp\n\n07891152342017",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Meu caixa não da estoque no produto que dei entrada."
+    },
+    {
+        "cliente": "Irlania",
+        "tranferencia": null,
+        "contato": "",
+        "description": "438504839\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alexandro",
+        "tranferencia": null,
+        "contato": "",
+        "description": "387267075\n90-dispositivos-usb.rules",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Pin Pad"
+    },
+    {
+        "cliente": "Leticia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "35139699000150\n\n1623018662\nvccae7nt\n25590\nt5iz9m5h\n\nFORMA DE PAGAMENTO EM ",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Joao",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Cliente não consegue alterar valor de venda no caixa.\n280866881\nsdf475\n",
+        "CNPJ": "46474347000177",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Mardinio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "09.191.132/0002-35\n509869146\n\n\n1273376162\nz8bcw2ix",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alex",
+        "tranferencia": null,
+        "contato": "",
+        "description": "2081085525",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Leidisalene",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Usava A3, eles tem o A1",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Matheus",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "1183146042\n4geizqsg\n\nrn1hb86h\n\nPaulo\n88989036632",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Bruno",
+        "tranferencia": null,
+        "contato": "",
+        "description": "973896091\n86q39ntt\n\n40141000",
+        "CNPJ": "24005751000169",
+        "build": "",
+        "assunto": "Preciso mudar o CFOP e CSOSN que a contabilidade solicitou de alguns produtos."
+    },
+    {
+        "cliente": "Jonatan",
+        "tranferencia": null,
+        "contato": "",
+        "description": "contabilidade",
+        "CNPJ": "29639304000185",
+        "build": "",
+        "assunto": "SysPDV - Ao enviar um nota o sistema fica na tela de consultando"
+    },
+    {
+        "cliente": "Alberto",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "41033393000117",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mirlane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "18277493000177\nIrlane\nnutriceara.nirllane@gmail.com\n85999048817\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Walter",
+        "tranferencia": null,
+        "contato": "0085991626456",
+        "description": "07075138003386\nComputador desligando sozinho e agora precisa de uma reinstalação.\n\n537358004\nhij7m9hz\n81hnme2v\n\nRuan\n\nMFE \n\n532655951\ntiwnpb26\n\nSeu Jesus\n",
+        "CNPJ": "07075138003386",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Juliana",
+        "tranferencia": null,
+        "contato": "91",
+        "description": "91993425581\nfinanceirobelem@febracis.com.br\n36809\n593308\n585F79.33442E.AEB07B.7F0811.AE8203.EA8D5D.016691\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ronia (Foi o que entendi kk)",
+        "tranferencia": null,
+        "contato": "numero não informado",
+        "description": "e-mail não informado.\n\nCliente desligou a ligação na hora que estava confirmando os dados para contato.",
+        "CNPJ": "32697589000115",
+        "build": "",
+        "assunto": "SysPDV - Duvidas em uma emissão de nota fiscal."
+    },
+    {
+        "cliente": "Julia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1289796658\n9664\n1424469378\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV- Terminal de Consulta"
+    },
+    {
+        "cliente": "Andressa",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1317766064\n718063050\n\nis not a valid integer value",
+        "CNPJ": "34499128000163",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Aurinete",
+        "tranferencia": null,
+        "contato": "",
+        "description": "19676787000134\n\n143405938\n\n9xffxg7x",
+        "CNPJ": "19676787000134",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Railene",
+        "tranferencia": null,
+        "contato": "",
+        "description": "318737387\n",
+        "CNPJ": "33012241000100",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Cleide",
+        "tranferencia": null,
+        "contato": "",
+        "description": "MFe ",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alexandre Assistenc",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Ajudei o Alexandre da assistência a fazer a conexão entre caixa e servidor no PC do cliente que está na assistência técnica.",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Caixa não comunica com o servidor."
+    },
+    {
+        "cliente": "Paulo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Contabilidade está  solicitando pra alterar\n\n060\n5405",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Davi",
+        "tranferencia": null,
+        "contato": "",
+        "description": "981137047\nn7kwd4vy",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Jorge",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Pin Pan com problema com problema de comunicação\n\nvpm28t93",
+        "CNPJ": "11210539000191",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Leticia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Att do certrificado",
+        "CNPJ": "41771995000171",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Gessica",
+        "tranferencia": null,
+        "contato": "",
+        "description": "cdika6ry\n1q3k5uw4",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Cristina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "2307\n730940",
+        "CNPJ": "07390277000117",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Alex Stilo Consulte",
+        "tranferencia": null,
+        "contato": "",
+        "description": "CardSe\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Configuração PIX"
+    },
+    {
+        "cliente": "Pedro WM",
+        "tranferencia": null,
+        "contato": "",
+        "description": "6rh176cf",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Daniele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Pre - venda com cliente\n1398120877\nud9bfer6\n\n\n336699",
+        "CNPJ": "95857652000153",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Aurilene",
+        "tranferencia": null,
+        "contato": "",
+        "description": "439311831\n4chbmyfm\n1034106\nC:\\Users\\Cervejaria\\Downloads\\23220613057982000108550010000306871841993270.xml\n501695",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mauricio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "O pagamento não cobre o debito\n391325129\noperação cancelada pré venda",
+        "CNPJ": "32818168000103",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Elaine",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Team -\n545734757\ny765ef\n684npm\n-\n536886874\n9466\n-\nElgin i9 ELGIN i9(USB)\nGERTEMFE\n\nConfigurações servidor.\nFonecedor : SQL Server\nServidor: 192.168.25.200\nporta: 0\nBase de dados: syspdv\n",
+        "CNPJ": "",
+        "build": "24246",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Davi",
+        "tranferencia": null,
+        "contato": "",
+        "description": "85989579024\n85986547432\n545825465\n\n7955244976\n1414476444\n5146\n\n224592785\n1034101\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Odaires",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Venda a convenio, tem cadastrado a finalizadora convenio. Antes liberava apenas para o fiscal\n\nu39dby8s\n\n91\n26",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Tatiana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "69373751000230\n\n643gkv\nhmqqnixn\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Alexandre",
+        "tranferencia": null,
+        "contato": "",
+        "description": "NFCE\n1450048494\nm5z1s6\n\n53220529860935000120650130002792609032957810\n\n0000279260",
+        "CNPJ": "29860935000120",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Geovana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Problema no Pin Pan\n1366196166\n5670\n\nsafra pay ipp320",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Matheus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "2835218398\nsuporte@tecnica-es.com.br\n526913397\npb1zbfai",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Erro na importação de uns XMLs"
+    },
+    {
+        "cliente": "Barcelar",
+        "tranferencia": null,
+        "contato": "",
+        "description": "940305641\nnva95sf8",
+        "CNPJ": "",
+        "build": "26060",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "EDUARDO",
+        "tranferencia": null,
+        "contato": "",
+        "description": "674443909\nb4394ynf\n3eks7v29",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alex",
+        "tranferencia": null,
+        "contato": "85923622472",
+        "description": "85923622472\n\n02",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Thays",
+        "tranferencia": null,
+        "contato": "",
+        "description": "melomatrizcompras@hotmail.com\n88996150210\n\n1145911377\n\n7xzi85",
+        "CNPJ": "88996150210",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Ramiro",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1001753476\n6d3ht4\n1002592\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Regina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1137432784\n4140\n\n09/06\n149273\n240,00",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Everson",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1288\n1257657062\n",
+        "CNPJ": "08186498000130",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Eugenia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "140092441\n7d9wg93y\n\n539769",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "lucelia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "957083911\n\n298043667",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Ana Valeria",
+        "tranferencia": null,
+        "contato": "",
+        "description": "977237210\n9706\nELGIN L42",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Angela",
+        "tranferencia": null,
+        "contato": "88998460392",
+        "description": "Pedro - Angela\n\n\nCAIXA 004\n1471101882\nwdpn1r1h\n\nCAIXA 002\n557762943\nyzwdvjap\n\nCAIXA 003\n922043439\nsrar29qx\n\nServidor\n804929849\nb9a87a",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Quero compartilha meu MFe com 2 caixas"
+    },
+    {
+        "cliente": "Bruno",
+        "tranferencia": null,
+        "contato": "",
+        "description": "438970127\n4xp91nv1\n1188267859\nbvakqh5k",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Eudesio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1099065282\nye68t7",
+        "CNPJ": "",
+        "build": "25997",
+        "assunto": ""
+    },
+    {
+        "cliente": "Tatiele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "mercantilsupereconomico@gmail.com\n8532764850\n\nTP-450\nTP-650\n\n642913370",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "EDILBERTO",
+        "tranferencia": null,
+        "contato": "",
+        "description": "mcbed2mf\n1001402",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Taciane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "554620771\n4ak1cyk9\n\nOCORRÊNCIA RELATADA:\n\nMFe não comunica com oPC.\n \n\nPROCEDIMENTO EXECUTADO:\n\nPedi para o cliente tirar e colocar o MFE e depois reiniciei o PC e o mesmo voltou a comunicar normalmente.\n\n \n\nRESULTADO:\n\nPDV funcionando corretamente.\n\n 00000000043282\n\n192.168.1.104\n\n69373751000150",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Italo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Fabiana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Tivemos uma queda de energia na emissão de uma NFe\n\nTivemos uma queda de energia na emissão de uma NFe e agora aparece erro de duplicidade quando tento emitir novamente.",
+        "CNPJ": "30391266000254",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Fabio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "fiscal",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Celio Alves",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1028497640\nNão está mostrando os itens\n\n\n\n",
+        "CNPJ": "73553109000120",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Anny",
+        "tranferencia": null,
+        "contato": "",
+        "description": "681168726\n\n011455\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Silva",
+        "tranferencia": null,
+        "contato": "",
+        "description": "07594538000110\n\n85988725447\nfwas.contabil@hotmail.com",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "JEDSON",
+        "tranferencia": null,
+        "contato": "",
+        "description": "982174337\n6a7qvi8j\n\n176197\n\n441646319\nmt5gs7n7",
+        "CNPJ": "00904108000109",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Gleyciane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "564071676\nif9m5w9d\nCAIXA 14\n\nhmiEbFVe4ixKtMUqsXjM8hf58j1FyV+kselipBuro4rP+KUaCUnNGWrGaANzbIrdBLew/JTUDDCMLesGH3qjVjGyVwYJY6LdlElES2aJY9Pf8xXNApbSqJq3ZFpYYcdvfJ3uV+Y+b8io4DIx7pr9H23zXDjUq0Wg0pgshj4YH1fmg8FCSqOn9mWlnRHRixxA4LN7cbc9smDmiSyanj36+4GO3Ghwlo0NKH/Lg0YbokHfGbN6emyVYHDz9u6iEEwKQqccq+/s6ZtHrF7jxOjpHiEsSghkHV0RVZHe1pZnlF5HBr77TwfJo4I+2aYNChpjw26oT58XkszqKRbsLhHGCw==",
+        "CNPJ": "02404355000171",
+        "build": "",
+        "assunto": "02404355000171"
+    },
+    {
+        "cliente": "ARQUINAEL",
+        "tranferencia": null,
+        "contato": "",
+        "description": "892598279\n2158",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Sony",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1010743230\niv3izymp",
+        "CNPJ": "13453118000117",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Juliana",
+        "tranferencia": null,
+        "contato": "8532418678",
+        "description": "8532418678\nfinanceiro@lightisgood.com.br\nrawm6kd6",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Matheus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Busca preço Tanca\nVP 640\n1695782096\nrsh1dzbz",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Jamile",
+        "tranferencia": null,
+        "contato": "",
+        "description": "106344512\n",
+        "CNPJ": "39764886000185",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Malena",
+        "tranferencia": null,
+        "contato": "",
+        "description": "contrushopacoecimento@gmail.com\nleandro\n30038653000120\n\nservidor\n509040621\ng8vcj261\n\nnotebook\n566786388\n9ird13",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Breno",
+        "tranferencia": null,
+        "contato": "",
+        "description": "349318235\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Samaria",
+        "tranferencia": null,
+        "contato": "",
+        "description": "519560014\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Daniele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "fqimpymb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "EVERALDO",
+        "tranferencia": null,
+        "contato": "",
+        "description": "https://docs.google.com/forms/d/e/1FAIpQLScPU-w_EsB8khhb47nnROPHMj7JR36xr3p964oxMRoqoZ7hnA/viewform\n70193100\n70199090\n70199000\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - NCM Invalido"
+    },
+    {
+        "cliente": "Vitor",
+        "tranferencia": null,
+        "contato": "",
+        "description": "692613976\nqn799jbv\n3526\n3525",
+        "CNPJ": "04439761000103",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Marcia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "06537674000106\n807956381\nsu382n\n\n846864031\nurduq4ix",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Silvana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "192.168.0.103\n1916099732\n\n1798",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "JEOMAR",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1048447923\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Marcos",
+        "tranferencia": null,
+        "contato": "",
+        "description": "855447768\nru4c33rs\n",
+        "CNPJ": "",
+        "build": "26679",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "José Pereira",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1371524944\nqip71qsf\n- ",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Luana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "186985727\n\n841559318\nx5831dap\n192.168.40.11",
+        "CNPJ": "17228340000177",
+        "build": "21610",
+        "assunto": ""
+    },
+    {
+        "cliente": "Matheus",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "45836767000193",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Larissa",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Acesso não autorizado.\n\n559573556\n7y8rfxqz",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Gabriela Mendonça",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1596222268\nf8vuj7wc\n\nTANCA -TP-650",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Paloma",
+        "tranferencia": null,
+        "contato": "",
+        "description": "166192169\n353707824 -  192.168.0.10 004",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Lucivania",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1492326183\n1tn5af7b\n\n1508654832\n478fsm",
+        "CNPJ": "",
+        "build": "24625",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Valtemir",
+        "tranferencia": null,
+        "contato": "",
+        "description": "785803405\nybeyv4\n\nCMUSER",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "24031"
+    },
+    {
+        "cliente": "Junia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "819743664\n7yyzas6i",
+        "CNPJ": "23454945000189",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Luciana",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "1437847261\nibm2f5yw\n8\n15\n22\n26\n27\n28\n29\n30",
+        "CNPJ": "32367241000160",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Deniel",
+        "tranferencia": null,
+        "contato": "",
+        "description": "465313811\n7915\n709\n727",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Gabriela",
+        "tranferencia": "SysPDV",
+        "contato": "",
+        "description": "950420406\n5twtv8hr\n\n",
+        "CNPJ": "",
+        "build": "22996",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Suellen (PENDENTE) ",
+        "tranferencia": null,
+        "contato": "",
+        "description": "29211070000170\n\n1458437445\n3g2qw5\n8630",
+        "CNPJ": "29211070000170",
+        "build": "",
+        "assunto": "SysPDV - Rede errada"
+    },
+    {
+        "cliente": "Alvaro vai ligar",
+        "tranferencia": null,
+        "contato": "",
+        "description": "567197415\n8mshp18s\nprix usb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Italo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "220387320\nr1airjfx",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Romulo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "216835298\nt3pw9prz\n-\n507357804\njbhsb67f\n-\n487519944\n9a673bgs",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Alexandre",
+        "tranferencia": null,
+        "contato": "",
+        "description": "robson.c.c.lima@gmail.com\n85986773572\n- \nbxhnn793",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rosangela",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1086952097\n\n587713239\n",
+        "CNPJ": "40220509000164",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Kelly ()",
+        "tranferencia": null,
+        "contato": "",
+        "description": "29273\nOrientei o cliente a enviar uma carga\n389895555\nxzn4n42dli",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Morgana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "365618226\n1cwvp4mz\n1037846\n\n\n269,50 ela tem\n268,41 calculado\n\n252,50 declarado pelo caixa\n15,91 sobre\n\n610181637\n84m5g9n8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Relatório"
+    },
+    {
+        "cliente": "Jamile",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "38370975000129",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "ELIZABETH",
+        "tranferencia": null,
+        "contato": "",
+        "description": "963291576\n8z2enb8w",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luis Automario",
+        "tranferencia": null,
+        "contato": "",
+        "description": "SysPDV - Configuração Sysprinter\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Saulo",
+        "tranferencia": null,
+        "contato": "",
+        "description": "PDV 005\n10.0.0.135 \n-\n433456381\n\n697690683\n4j235tr3",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Vinicius",
+        "tranferencia": null,
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "Atualização Sitef"
+    },
+    {
+        "cliente": "Sandra",
+        "tranferencia": null,
+        "contato": "",
+        "description": "b4h853rn\n4iaqew77\nElgin MFE\nElgin i9\n\nPor gentileza poderia nos informar o motivo da atualização desses módulos?\n095688\n361331",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Cesar",
+        "tranferencia": null,
+        "contato": "",
+        "description": "596006621\nai5u53\n1c82br\n\npTEMNw2Ivj2fxR9WM1zoHg68vQYaP6ktg4EqVsiykAA72m8bUpGr+kSCrmmxOTQDc4Uz/rZsByU60UjXI7gDb0qMxW2zk6GXDJJ6jM4l+lc0wmacS/kowCGqGdOCoBu8/S7Llm9hmNLtX1xH+6pWKcBzNC577J2G1F0uypbQbrHb2C+/MfB3g8QnyBapQtYIPEl1cdJabx+kI2kl9RuQLG16H+/x1CqvYNg/8jwy7trjYgxpDcufhBFbyPzGzegT7YahWKLAI+U+ViW5H10U4rUkXMuTfS6M3CD1tj+Axu3Reuzk0GbQ0i85702V7LpQapZPpLyuHS05nsHMk1+Mwg==\n\n633503\n687299",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Aparecida",
+        "tranferencia": null,
+        "contato": "",
+        "description": "\n12354841000186\n\np6gm66",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Rosenildo Nogueira",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Erro tef, \n869068948\nxpsg1evp\n\n60 - Cartão com erro ou Mal Inserido",
+        "CNPJ": "33265528000141",
+        "build": "",
+        "assunto": "SysPDV - Erro de cartão mal inserido ao passar venda."
+    },
+    {
+        "cliente": "Sergio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "02005582000124\n1734268656",
+        "CNPJ": "02005582000124",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Antônio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "418576541\nifnr8f75",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Matheus Tecnica",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1694561748\nv8bm4hux",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Graça",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Problema de conexão com o MFE.\n\nPedi para o cliente mudar a porta USB que o MFE estava conectado e deu certo.\n\nCaixa funcionado corretamente.\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "",
+        "tranferencia": null,
+        "contato": "",
+        "description": "CX 007 - 604133288\n\n604220187\nrhqenc3r\n\nAmigo, estou entrando em contato para passar a você o passo a passo para realizar este procedimento de atualização, porém atente-se aos pré-requisitos:\n- Antes de iniciar o processo veja a versão do SiTEF, se for uma versão inferior à versão do passo a passo, deve-se atualizar primeiro o SiTEF para depois prosseguir com a atualização do vencimento.\n- Não se esqueça de fazer o backup antes de todo procedimento.",
+        "CNPJ": "",
+        "build": "24676",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Liliana",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1576640050\n",
+        "CNPJ": "00983496000160",
+        "build": "",
+        "assunto": "SysPDV - Caixa não comunica com a sefaz."
+    },
+    {
+        "cliente": "amanda",
+        "tranferencia": null,
+        "contato": "",
+        "description": "563765413\nwt7zm5sp\n5910\n\nArgos OS 214 PLUS",
+        "CNPJ": "11080635000243",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Daniele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "366888726\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Junior",
+        "tranferencia": null,
+        "contato": "",
+        "description": "troco simples Erro 42\n\naparentemente tem relação com o firmware, ou criptografia. ",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "PEdro",
+        "tranferencia": null,
+        "contato": "",
+        "description": "{VendaValorDiferenteHabilitada=1}",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Regia",
+        "tranferencia": null,
+        "contato": "",
+        "description": "PIN PAD - PPC930\n517433883\nxva6ptqg\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Pin Pad com erro na hora de fazer a venda"
+    },
+    {
+        "cliente": "Renato Bruno Fazendinha",
+        "tranferencia": null,
+        "contato": "",
+        "description": "12369179000138\n\n1 \n3\n4",
+        "CNPJ": "12369179000138",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Denilson",
+        "tranferencia": "Canais",
+        "contato": "",
+        "description": "Cliente trocando de CNPJ, o Sitef Express ta licenciado no no CNPJ antigo pelo discover mas ele quer colocar o novo novo CNPJ conosco\n46656514000109\n\nn PEDIDO 66336",
+        "CNPJ": "46656514000109",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Alan - Israel Eletronica",
+        "tranferencia": null,
+        "contato": "",
+        "description": "690576\nAlexandre\n\n967980613\nabkzmp",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Joao",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Impressora - > Tanca TP- 650",
+        "CNPJ": "74031790000109",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Jones",
+        "tranferencia": null,
+        "contato": "",
+        "description": "lovedecorstory@gmail.com\n47996595152\n\n614669133\neen6ndsn\n\ncommunication error 87\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Reinstalação de Caixa e Servidor"
+    },
+    {
+        "cliente": "Eudesio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1099065282\nq526xt",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "renata",
+        "tranferencia": null,
+        "contato": "",
+        "description": "2vc8w9pv",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Daniele",
+        "tranferencia": null,
+        "contato": "991308879",
+        "description": "josinascimento1998@gmail.com\t\n85991304988\n1245800111\n837bsd8f",
+        "CNPJ": "",
+        "build": "25196",
+        "assunto": ""
+    },
+    {
+        "cliente": "Sabrina",
+        "tranferencia": null,
+        "contato": "",
+        "description": "cq4qmms7\nIP SERVIDOR 192.168.0.16",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rochele",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1477615729\nt9t1y5\n\n21\n22\n18\n20\n12",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Valtemir",
+        "tranferencia": null,
+        "contato": "",
+        "description": "wp7jx12t",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Evanio",
+        "tranferencia": null,
+        "contato": "",
+        "description": "42.326.489/0001-36\nvrk2d8un\n\nBAD Gateway\n\n99\n3101\n\nupdate PROPRIO set PRPTOKLOJNEW='7124970A989809183C6E1545124FF6E7DDB6EDC65FC13614E531C00CE124E4CF7885EF807DEDB85A3302A648F4FDECED65FF33324AC7D6767EB5F13396BA7E1D2C5534E665B62A41F7620D2BABC4CF8E58C35E3B9D823648998209B04833173A4E2593837190169E55396F5EAB379E0120E3260C3282CB131B74B04956FCDEE40BB4069BA4C571659FD085E6A0D20086C0D9F549DFEE77092F6B5E9F415C734C42A73B19493AEC15B8C90A5674B9017FC3589AA1FDA0A8100A7B8EB8CA3936568331C0775174AAF5F711A7A899C3DB7805951DF356FE9713EE43D1FDEC2177E35A1C374BF5A91E4A4017439155A058E30637B0D4E1B157532D82FA689E46AE2C135DCD63B83B4F691AED7CA542067B4B7677D78BE2BAF4399CE72E5B2D0764DB'\n\nSolicitar Por email\nAlexandre",
+        "CNPJ": "",
+        "build": "26911",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Marisa",
+        "tranferencia": null,
+        "contato": "",
+        "description": "492057492\n5scz2jwi\nhxms3iqy\n\nclient_id\nÉ o identificador público e único no OAuth do Banco do Brasil.\neyJpZCI6ImY3ZjM0NmEtMzU4Yi00NTU5IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjI5MzI4LCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0\n\n\nclient_secret\nÉ conhecido apenas para sua aplicação e o servidor de autorização. Por isso, tome muito cuidado com seu armazenamento. Em caso de suspeita de fraude, deverá acessar suas Credenciais dentro da sua Aplicação e realizar a troca do mesmo.\neyJpZCI6Ijg0ZWJiOGMtZGRlNi00OTJlLWFhZGYtOWM4IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjI5MzI4LCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MSwic2VxdWVuY2lhbENyZWRlbmNpYWwiOjEsImFtYmllbnRlIjoicHJvZHVjYW8iLCJpYXQiOjE2NTYwOTc2ODU0Nzl9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Gleyciane",
+        "tranferencia": null,
+        "contato": "",
+        "description": "230787091\ni3xzaf3e",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Vinicius",
+        "tranferencia": null,
+        "contato": "",
+        "description": "\n444132\n\n615298624\n7bd9y9h6",
+        "CNPJ": "",
+        "build": "26630",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "André",
+        "tranferencia": null,
+        "contato": "",
+        "description": "1040948\nk98pu9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Joelma",
+        "tranferencia": null,
+        "contato": "",
+        "description": "Impressora não imprime\n651326503\n2424\nTP650\n\nserie 29801",
+        "CNPJ": "22320573000135",
+        "build": "26679",
+        "assunto": "SysPDV - Impressora não imprime"
+    },
+    {
+        "cliente": "Liege",
+        "tranferencia": null,
+        "contato": "",
+        "description": "coliseum-f@hotmail.com\n8532270271\n211h8ztt\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "26687"
+    },
+    {
+        "cliente": "",
+        "tranferencia": null,
+        "contato": "",
+        "description": "djhef4c5\nz26yjhp9\n\n615476443\ngeg7ti99\njp7z6uyq\n",
+        "CNPJ": "11386012000112",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Glauber",
+        "tranferencia": null,
+        "contato": "",
+        "description": "q61grewg",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV"
+    }
+]

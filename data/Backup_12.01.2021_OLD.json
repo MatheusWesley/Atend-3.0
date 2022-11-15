@@ -1,0 +1,460 @@
+[
+    {
+        "subject": "JHENNIFER",
+        "contato": "8532376126",
+        "description": "Anydesk - 411310977\nFoi gerado uma chave para o cliente pelo site. Orientei a realizar a atualização para a versão 19.0 pois esta usando a 16.2",
+        "cpfcnpj": "24157516000102",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Wesley",
+        "contato": "CHAT",
+        "description": "Foi gerado uma chave para o cliente.",
+        "cpfcnpj": "07241345000186",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA",
+        "_showDetails": false
+    },
+    {
+        "subject": "Gabriela",
+        "contato": "",
+        "description": "Cliente solicitando uma chave mais está bloqueado",
+        "cpfcnpj": "12843456000100",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "Hudson",
+        "contato": "CHAT",
+        "description": "o cliente estava com o contrato vencido, então solicitei que entrasse em contato por telefone com o pessoal de Canais.",
+        "cpfcnpj": "04372395000104",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "subject": "Vinicius",
+        "contato": "CHAT",
+        "description": "série: 633190 controle: 464580 versão:19.0.0\ncnpj: 05.105.211/0001-02\nMotivo é a Reinstalação do Servidor",
+        "cpfcnpj": "05105211000102",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Patrícia",
+        "contato": "8530778700",
+        "description": "Mudou após uma atualização do sistema.",
+        "cpfcnpj": "07872617000146",
+        "build": "24938",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Dario",
+        "contato": "CHAT",
+        "description": "Licença constava como vencida, orientei a falar com o setor de contratos para verificar a situação.",
+        "cpfcnpj": "18486299000100",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "subject": "Ozelanio",
+        "contato": "",
+        "description": "Depois que pagou uns boletos atrasados ele solicitou uma chave. Entao orientei gerar pelo ONLINE-F5\n",
+        "cpfcnpj": "37777375000172",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Adriana",
+        "contato": "",
+        "description": "Orientei o cliente a gerar a chave pelo site\n442367\n625865800\n\n",
+        "cpfcnpj": "32720279000174",
+        "build": "11786",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Osmar",
+        "contato": "",
+        "description": "Constava como bloqueado então encaminhei pra o financeiro.",
+        "cpfcnpj": "01400793000107",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "Jaqueline",
+        "contato": "",
+        "description": "Orientei  o cliente a gerar chave pelo ONLINE-F5",
+        "cpfcnpj": "39441446000197",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Thyrso",
+        "contato": "123",
+        "description": "O cliente queria fazer uma restauração de banco após a formatação do sistema. encaminhei para a fila d o SysPDV ",
+        "cpfcnpj": "33640208000124",
+        "build": "0",
+        "assunto": "SysPDV",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "subject": "Michael",
+        "contato": "",
+        "description": "Gerei uma chave para o cliente e ele ficou de colocar a chave manualmente no sistema através do e-mail recebido. Caso ocorresse alguma problema ficou de retornada com o numero do ticket. (959160)",
+        "cpfcnpj": "02045499308",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Hilario",
+        "contato": "",
+        "description": "Fo gerado uma chave com troca de controle para o cliente devido a mudança de internet no local.",
+        "cpfcnpj": "13453118000117",
+        "build": "24099",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "subject": "Zenaneide",
+        "contato": "",
+        "description": "639856\nZENANEIDE COSTA NOJOSA\n\nNão consegui ver o cadastro do cliente pois o Hermes estava mostrando erro. Mas o cliente sinalizou que poedeira ter uma pendencia financeira, então encaminhei pra lá.",
+        "cpfcnpj": "37962526000126",
+        "build": "0",
+        "assunto": "37.962.526/0001-26",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "Branca",
+        "contato": "",
+        "description": "O cliente havia entrado em contato antes para ser gerado a chave, mas como estava fora do horário não foi possível. Então gerei a chave para o cliente como solicitado pelo telefone e e-mail. Depois transferir pra o Syspdv pois ela estava com um problema no caixa.",
+        "cpfcnpj": "28743360000283",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "subject": "Marcio PCI",
+        "contato": "",
+        "description": "Preciso de uma chave",
+        "cpfcnpj": "14949301000170",
+        "build": "25141",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Aline",
+        "contato": "",
+        "description": "A chave ja tinha sido gerada, faltava apenas uma carga. Então orientei e fiz junto com o cliente o envio da carga para o caixa.",
+        "cpfcnpj": "07075138005168",
+        "build": "24427",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Luis",
+        "contato": "",
+        "description": "26937\nFoi gerada uma chave com mudança de versão para o cliente como solicitado. 587A8D.26813F.D0430C.730885.41C203.26C17D.A83E29\n",
+        "cpfcnpj": "40007158000108",
+        "build": "25196",
+        "assunto": "SysPDV - Atualização de Versão",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Diego",
+        "contato": "",
+        "description": "545098745\nGerei a chave para o cliente mas orientei ele a atualizar o sistema pois estava usando a versão 16.2\n",
+        "cpfcnpj": "06242316000176",
+        "build": "10935",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Erbert",
+        "contato": "",
+        "description": "Gerado uma chave para o cliente depois que teve a troca da placa mae do pc",
+        "cpfcnpj": "02728497230",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "CLEIDIANE (FINALIZAR TICKET)",
+        "contato": "",
+        "description": "358716\n962096508\n2B96A2.288A69.648E16.39C94F.981597.D81D19.2330ED",
+        "cpfcnpj": "07348972000110",
+        "build": "23848",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "subject": "Mayra",
+        "contato": "",
+        "description": "Foi verificado junto com a revenda que a data do computador estava no dia 01/04 e não a data de hoje (04/01).\n\nFoi realizado por parte da revenda a correção do horário do computador e colocado a chave com sucesso.",
+        "cpfcnpj": "10289137000161",
+        "build": "17999",
+        "assunto": "SysPDV - Problema ao colocar a chave no SysPDV Server",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "HELIO PESSOA",
+        "contato": "",
+        "description": "917850862. Orientei o cliente a gera uma chave pelo site do sistemas internos e deu certo.",
+        "cpfcnpj": "12842420000102",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "ALESSANDRO",
+        "contato": "",
+        "description": "443624\nfoi gerado uma chave para o cliente como solicitado",
+        "cpfcnpj": "21101469000197",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Francisco",
+        "contato": "",
+        "description": "685889\n62FEE1.9BBE62.65D5A1.37FC88.927412.192ADC.CF118B\n\nFoi gerado uma chave para o cliente pois ele estava sem internet no local.",
+        "cpfcnpj": "19729162000193",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Alex Moranginho",
+        "contato": "",
+        "description": "8E0DC6.91496E.CF380D.E90AC5.833084.9AC005.298701.\n\nGerei uma chave para o cliente com mudança de versão pois a versão colocada na maquina dele era 19.0 e a que estava sendo gerada era 11.10. Depois disso Informei pra usar o ONLINE-F5 e funcionou.",
+        "cpfcnpj": "11659770000833",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave com mudança de versão",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Cleiton",
+        "contato": "",
+        "description": "599880\nFoi verificado que o cliente estava com um erro no banco de dados SQL, então solicitei pra revenda que realizasse o reinicio do serviço e depois disso ele conseguiu colocar a chave pelo ONLINE-F5 com sucesso.",
+        "cpfcnpj": "26875406000101",
+        "build": "24107",
+        "assunto": "SysPDV - Problema ao colocar a chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "ISAQUE",
+        "contato": "",
+        "description": "estava em debito, 2521. ( 65CE61.27CE62.61D1A0.3E8CA8.984602.192414.0103C0 ) Foi gerado uma chave para o cliente bloqueado",
+        "cpfcnpj": "00167193000170",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "Gabriel",
+        "contato": "",
+        "description": "Implantador Marcos Gabriel\n191287833\n(8C0691.996932.EA2891.6C8E01.CE32D6.29654C.238171)\n",
+        "cpfcnpj": "39688227000107",
+        "build": "24938",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Luis",
+        "contato": "",
+        "description": "443803\n496592\nFoi gerado uma chave para o cliente com troca de controle como solicitado pela revenda pois o sistema dele estava sem internet.\ntroca servidor",
+        "cpfcnpj": "13475276720",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "subject": "Elisangela",
+        "contato": "85987849150",
+        "description": "Cliente consta como bloqueado, transferir para o financeiro.",
+        "cpfcnpj": "07733265000148",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "Osmar",
+        "contato": "",
+        "description": "Encaminhei para o financeiro pois estava com pendencia",
+        "cpfcnpj": "01400793000107",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "subject": "TINA",
+        "contato": "CHAT",
+        "description": "cnpj- 03778391000400\nversão 11.10\nmudança de local \nTROCA DE LOCAL E DE MAQUINA\nTINA\nserie - 2388 controle- 966748 - 8E0839.9E09D2.6D7191.6B0811.CE3086.C2B31C.2F83B1\n\nserie - 2386 - controle- 896516 - 0E31E9.288033.2BC9D8.13B600.C3E122.61C20B.FE9D63\n\nserie - 2384 controle- 018159 - 40F862.4F8031.3BD6DE.C9801F.63850B.C131A3.292E1C\n\nserie - 2385 controle-632573 - 38F2DE.420DD6.3046B3.1853DC.919C02.E32609.4116F8\n\nserie - 2386 - controle-054696 - 8D0C59.CB09D2.6D6191.680811.CE3096.B5134C.2283B1\n\nserie - 2387 - controle-900072 - 25C202.881D05.0963B3.09C85E.9191C6.3C161B.2360ED\n\nserie - 2389 - controle - 769196 - 0131B9.298004.2BC9D8.13C600.F5E152.61C205.2E9D63",
+        "cpfcnpj": "03778391000400",
+        "build": "0",
+        "assunto": "TROCA DE LOCAL E DE MAQUINA",
+        "tranferencia": "SEM TRANSFERENCIA",
+        "_showDetails": false
+    },
+    {
+        "subject": "Werley",
+        "contato": "",
+        "description": "584545525\nA loja do cliente trocou controle. Ele informou que isso tem acontecido muito, mas não sabe o porque desta troca.",
+        "cpfcnpj": "28480561000154",
+        "build": "22044",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Raiza",
+        "contato": "",
+        "description": "Orientei o cliente a gerar a chave pelo site.",
+        "cpfcnpj": "40095521000194",
+        "build": "22996",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Joeliton",
+        "contato": "",
+        "description": "239823786\n0FC182.878A85.60DF37.43CD00.4E6528.758003.0A238E\ncliente solicitou uma chave com ususarios temporarios",
+        "cpfcnpj": "00087096000177",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "KETLIN",
+        "contato": "",
+        "description": "Foi gerado uma chave para o cliente pois o Online F5 não estava funcionando lá.",
+        "cpfcnpj": "02713654000350",
+        "build": "24196",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Maicon",
+        "contato": "",
+        "description": "607707\nO cliente não conseguiu gerar a chave pelo online F5\n38BB54.37015F.72918D.5D2D62.E50822.13FD0B.731786\n\n",
+        "cpfcnpj": "29039101000158",
+        "build": "24520",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Ana iris",
+        "contato": "",
+        "description": "só precisava de uma carga.",
+        "cpfcnpj": "21033468000152",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Aurilio",
+        "contato": "",
+        "description": "879747267\nTROCA DO SERVIDOR APÓS O ANTIGO QUEIMAR",
+        "cpfcnpj": "15688967000185",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Elizabeth",
+        "contato": "",
+        "description": "786196578\n43CEDA.E98617.AEBE2F.A15052.7381A4.1931A4.902FD8\n",
+        "cpfcnpj": "22563784000107",
+        "build": "24196",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Anderson",
+        "contato": "",
+        "description": "1352002122\nx2n14p\nO botão online-F5 não estava funcionando.\n0B4139.408603.68C921.53AD02.7DE145.71C289.A65717",
+        "cpfcnpj": "31233348000152",
+        "build": "18258",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "CHARLES",
+        "contato": "8530255553",
+        "description": "Foi gerar a chave pelo ONLINE-F5",
+        "cpfcnpj": "22057769000189",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Neide",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices e também o reinicio do servido de comunicação do integrador pois estava parado.",
+        "cpfcnpj": "06209358000105",
+        "build": "24155",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "GENIA",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.",
+        "cpfcnpj": "18062535000152",
+        "build": "23061",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": " LIDUINA",
+        "contato": "",
+        "description": "Realizado a Atualização do Webservices",
+        "cpfcnpj": "22976650000100",
+        "build": "24233",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "LIDUINA",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.\n\n",
+        "cpfcnpj": "40433069000123",
+        "build": "24615",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Cesar",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.",
+        "cpfcnpj": "02208762000103",
+        "build": "23836",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "IRIS ",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.\n",
+        "cpfcnpj": "09527011000107",
+        "build": "23862",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "subject": "Paulo",
+        "contato": "85981730817",
+        "description": "Erro de sefaz fora. PRECISO RETORNAR PARA O CLIENTE.\nProblema foi resolvido, mas deu outra rejeição. Orientei o cliente ver com a contabilidade sobre o CSOSN utilizado nos produtos.\n\nhttps://grupocasamagalhaes.movidesk.com/Ticket/Edit/962586",
+        "cpfcnpj": "00880017000180",
+        "build": "22942",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    }
+]

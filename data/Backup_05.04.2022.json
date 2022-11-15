@@ -1,0 +1,5856 @@
+[
+    {
+        "cliente": "JHENNIFER",
+        "contato": "8532376126",
+        "description": "Anydesk - 411310977\nFoi gerado uma chave para o cliente pelo site. Orientei a realizar a atualização para a versão 19.0 pois esta usando a 16.2",
+        "CNPJ": "24157516000102",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Wesley",
+        "contato": "CHAT",
+        "description": "Foi gerado uma chave para o cliente.",
+        "CNPJ": "07241345000186",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA",
+        "_showDetails": false
+    },
+    {
+        "cliente": "Gabriela",
+        "contato": "",
+        "description": "Cliente solicitando uma chave mais está bloqueado",
+        "CNPJ": "12843456000100",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Hudson",
+        "contato": "CHAT",
+        "description": "o cliente estava com o contrato vencido, então solicitei que entrasse em contato por telefone com o pessoal de Canais.",
+        "CNPJ": "04372395000104",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "Vinicius",
+        "contato": "CHAT",
+        "description": "série: 633190 controle: 464580 versão:19.0.0\ncnpj: 05.105.211/0001-02\nMotivo é a Reinstalação do Servidor",
+        "CNPJ": "05105211000102",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Patrícia",
+        "contato": "8530778700",
+        "description": "Mudou após uma atualização do sistema.",
+        "CNPJ": "07872617000146",
+        "build": "24938",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Dario",
+        "contato": "CHAT",
+        "description": "Licença constava como vencida, orientei a falar com o setor de contratos para verificar a situação.",
+        "CNPJ": "18486299000100",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Ozelanio",
+        "contato": "",
+        "description": "Depois que pagou uns boletos atrasados ele solicitou uma chave. Entao orientei gerar pelo ONLINE-F5\n",
+        "CNPJ": "37777375000172",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Adriana",
+        "contato": "",
+        "description": "Orientei o cliente a gerar a chave pelo site\n442367\n625865800\n\n",
+        "CNPJ": "32720279000174",
+        "build": "11786",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Osmar",
+        "contato": "",
+        "description": "Constava como bloqueado então encaminhei pra o financeiro.",
+        "CNPJ": "01400793000107",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Jaqueline",
+        "contato": "",
+        "description": "Orientei  o cliente a gerar chave pelo ONLINE-F5",
+        "CNPJ": "39441446000197",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Thyrso",
+        "contato": "123",
+        "description": "O cliente queria fazer uma restauração de banco após a formatação do sistema. encaminhei para a fila d o SysPDV ",
+        "CNPJ": "33640208000124",
+        "build": "0",
+        "assunto": "SysPDV",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Michael",
+        "contato": "",
+        "description": "Gerei uma chave para o cliente e ele ficou de colocar a chave manualmente no sistema através do e-mail recebido. Caso ocorresse alguma problema ficou de retornada com o numero do ticket. (959160)",
+        "CNPJ": "02045499308",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Hilario",
+        "contato": "",
+        "description": "Fo gerado uma chave com troca de controle para o cliente devido a mudança de internet no local.",
+        "CNPJ": "13453118000117",
+        "build": "24099",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Zenaneide",
+        "contato": "",
+        "description": "639856\nZENANEIDE COSTA NOJOSA\n\nNão consegui ver o cadastro do cliente pois o Hermes estava mostrando erro. Mas o cliente sinalizou que poedeira ter uma pendencia financeira, então encaminhei pra lá.",
+        "CNPJ": "37962526000126",
+        "build": "0",
+        "assunto": "37.962.526/0001-26",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Branca",
+        "contato": "",
+        "description": "O cliente havia entrado em contato antes para ser gerado a chave, mas como estava fora do horário não foi possível. Então gerei a chave para o cliente como solicitado pelo telefone e e-mail. Depois transferir pra o Syspdv pois ela estava com um problema no caixa.",
+        "CNPJ": "28743360000283",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Marcio PCI",
+        "contato": "",
+        "description": "Preciso de uma chave",
+        "CNPJ": "14949301000170",
+        "build": "25141",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "A chave ja tinha sido gerada, faltava apenas uma carga. Então orientei e fiz junto com o cliente o envio da carga para o caixa.",
+        "CNPJ": "07075138005168",
+        "build": "24427",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Luis",
+        "contato": "",
+        "description": "26937\nFoi gerada uma chave com mudança de versão para o cliente como solicitado. 587A8D.26813F.D0430C.730885.41C203.26C17D.A83E29\n",
+        "CNPJ": "40007158000108",
+        "build": "25196",
+        "assunto": "SysPDV - Atualização de Versão",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Diego",
+        "contato": "",
+        "description": "545098745\nGerei a chave para o cliente mas orientei ele a atualizar o sistema pois estava usando a versão 16.2\n",
+        "CNPJ": "06242316000176",
+        "build": "10935",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Erbert",
+        "contato": "",
+        "description": "Gerado uma chave para o cliente depois que teve a troca da placa mae do pc",
+        "CNPJ": "02728497230",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "CLEIDIANE (FINALIZAR TICKET)",
+        "contato": "",
+        "description": "358716\n962096508\n2B96A2.288A69.648E16.39C94F.981597.D81D19.2330ED",
+        "CNPJ": "07348972000110",
+        "build": "23848",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mayra",
+        "contato": "",
+        "description": "Foi verificado junto com a revenda que a data do computador estava no dia 01/04 e não a data de hoje (04/01).\n\nFoi realizado por parte da revenda a correção do horário do computador e colocado a chave com sucesso.",
+        "CNPJ": "10289137000161",
+        "build": "17999",
+        "assunto": "SysPDV - Problema ao colocar a chave no SysPDV Server",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "HELIO PESSOA",
+        "contato": "",
+        "description": "917850862. Orientei o cliente a gera uma chave pelo site do sistemas internos e deu certo.",
+        "CNPJ": "12842420000102",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "ALESSANDRO",
+        "contato": "",
+        "description": "443624\nfoi gerado uma chave para o cliente como solicitado",
+        "CNPJ": "21101469000197",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "685889\n62FEE1.9BBE62.65D5A1.37FC88.927412.192ADC.CF118B\n\nFoi gerado uma chave para o cliente pois ele estava sem internet no local.",
+        "CNPJ": "19729162000193",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Alex Moranginho",
+        "contato": "",
+        "description": "8E0DC6.91496E.CF380D.E90AC5.833084.9AC005.298701.\n\nGerei uma chave para o cliente com mudança de versão pois a versão colocada na maquina dele era 19.0 e a que estava sendo gerada era 11.10. Depois disso Informei pra usar o ONLINE-F5 e funcionou.",
+        "CNPJ": "11659770000833",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave com mudança de versão",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Cleiton",
+        "contato": "",
+        "description": "599880\nFoi verificado que o cliente estava com um erro no banco de dados SQL, então solicitei pra revenda que realizasse o reinicio do serviço e depois disso ele conseguiu colocar a chave pelo ONLINE-F5 com sucesso.",
+        "CNPJ": "26875406000101",
+        "build": "24107",
+        "assunto": "SysPDV - Problema ao colocar a chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "ISAQUE",
+        "contato": "",
+        "description": "estava em debito, 2521. ( 65CE61.27CE62.61D1A0.3E8CA8.984602.192414.0103C0 ) Foi gerado uma chave para o cliente bloqueado",
+        "CNPJ": "00167193000170",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Gabriel",
+        "contato": "",
+        "description": "Implantador Marcos Gabriel\n191287833\n(8C0691.996932.EA2891.6C8E01.CE32D6.29654C.238171)\n",
+        "CNPJ": "39688227000107",
+        "build": "24938",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Luis",
+        "contato": "",
+        "description": "443803\n496592\nFoi gerado uma chave para o cliente com troca de controle como solicitado pela revenda pois o sistema dele estava sem internet.\ntroca servidor",
+        "CNPJ": "13475276720",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Elisangela",
+        "contato": "85987849150",
+        "description": "Cliente consta como bloqueado, transferir para o financeiro.",
+        "CNPJ": "07733265000148",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Osmar",
+        "contato": "",
+        "description": "Encaminhei para o financeiro pois estava com pendencia",
+        "CNPJ": "01400793000107",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "TINA",
+        "contato": "CHAT",
+        "description": "cnpj- 03778391000400\nversão 11.10\nmudança de local \nTROCA DE LOCAL E DE MAQUINA\nTINA\nserie - 2388 controle- 966748 - 8E0839.9E09D2.6D7191.6B0811.CE3086.C2B31C.2F83B1\n\nserie - 2386 - controle- 896516 - 0E31E9.288033.2BC9D8.13B600.C3E122.61C20B.FE9D63\n\nserie - 2384 controle- 018159 - 40F862.4F8031.3BD6DE.C9801F.63850B.C131A3.292E1C\n\nserie - 2385 controle-632573 - 38F2DE.420DD6.3046B3.1853DC.919C02.E32609.4116F8\n\nserie - 2386 - controle-054696 - 8D0C59.CB09D2.6D6191.680811.CE3096.B5134C.2283B1\n\nserie - 2387 - controle-900072 - 25C202.881D05.0963B3.09C85E.9191C6.3C161B.2360ED\n\nserie - 2389 - controle - 769196 - 0131B9.298004.2BC9D8.13C600.F5E152.61C205.2E9D63",
+        "CNPJ": "03778391000400",
+        "build": "0",
+        "assunto": "TROCA DE LOCAL E DE MAQUINA",
+        "tranferencia": "SEM TRANSFERENCIA",
+        "_showDetails": false
+    },
+    {
+        "cliente": "Werley",
+        "contato": "",
+        "description": "584545525\nA loja do cliente trocou controle. Ele informou que isso tem acontecido muito, mas não sabe o porque desta troca.",
+        "CNPJ": "28480561000154",
+        "build": "22044",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Raiza",
+        "contato": "",
+        "description": "Orientei o cliente a gerar a chave pelo site.",
+        "CNPJ": "40095521000194",
+        "build": "22996",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Joeliton",
+        "contato": "",
+        "description": "239823786\n0FC182.878A85.60DF37.43CD00.4E6528.758003.0A238E\ncliente solicitou uma chave com ususarios temporarios",
+        "CNPJ": "00087096000177",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "KETLIN",
+        "contato": "",
+        "description": "Foi gerado uma chave para o cliente pois o Online F5 não estava funcionando lá.",
+        "CNPJ": "02713654000350",
+        "build": "24196",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Maicon",
+        "contato": "",
+        "description": "607707\nO cliente não conseguiu gerar a chave pelo online F5\n38BB54.37015F.72918D.5D2D62.E50822.13FD0B.731786\n\n",
+        "CNPJ": "29039101000158",
+        "build": "24520",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Ana iris",
+        "contato": "",
+        "description": "só precisava de uma carga.",
+        "CNPJ": "21033468000152",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Aurilio",
+        "contato": "",
+        "description": "879747267\nTROCA DO SERVIDOR APÓS O ANTIGO QUEIMAR",
+        "CNPJ": "15688967000185",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Elizabeth",
+        "contato": "",
+        "description": "786196578\n43CEDA.E98617.AEBE2F.A15052.7381A4.1931A4.902FD8\n",
+        "CNPJ": "22563784000107",
+        "build": "24196",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "1352002122\nx2n14p\nO botão online-F5 não estava funcionando.\n0B4139.408603.68C921.53AD02.7DE145.71C289.A65717",
+        "CNPJ": "31233348000152",
+        "build": "18258",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "CHARLES",
+        "contato": "8530255553",
+        "description": "Foi gerar a chave pelo ONLINE-F5",
+        "CNPJ": "22057769000189",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Neide",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices e também o reinicio do servido de comunicação do integrador pois estava parado.",
+        "CNPJ": "06209358000105",
+        "build": "24155",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "GENIA",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.",
+        "CNPJ": "18062535000152",
+        "build": "23061",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": " LIDUINA",
+        "contato": "",
+        "description": "Realizado a Atualização do Webservices",
+        "CNPJ": "22976650000100",
+        "build": "24233",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "LIDUINA",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.\n\n",
+        "CNPJ": "40433069000123",
+        "build": "24615",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Cesar",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.",
+        "CNPJ": "02208762000103",
+        "build": "23836",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "IRIS ",
+        "contato": "",
+        "description": "Foi realizado a atualização do webservices no servidor do cliente.\n",
+        "CNPJ": "09527011000107",
+        "build": "23862",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Paulo",
+        "contato": "85981730817",
+        "description": "Erro de sefaz fora. PRECISO RETORNAR PARA O CLIENTE.\nProblema foi resolvido, mas deu outra rejeição. Orientei o cliente ver com a contabilidade sobre o CSOSN utilizado nos produtos.\n\nhttps://grupocasamagalhaes.movidesk.com/Ticket/Edit/962586",
+        "CNPJ": "00880017000180",
+        "build": "22942",
+        "assunto": "SysPDV - Atualização WebServices",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Italo",
+        "contato": "",
+        "description": "Ensinei o cliente a gerar a chave pelo site.\n443469\n618907324",
+        "CNPJ": "42517914000174",
+        "build": "23621",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Matheus",
+        "contato": "",
+        "description": "Primeira chave gerada com sucesso.\n43459\n535860362",
+        "CNPJ": "36238333000109",
+        "build": "25462",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Eloisa",
+        "contato": "",
+        "description": "CLIENTE BLOQUEADA",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Charles",
+        "contato": "",
+        "description": "CLIENTE BLOQUEADO",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "Disitencia",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Janaina",
+        "contato": "",
+        "description": "CAIU A LIGAÇÂO",
+        "CNPJ": "01854831000193",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Jidel",
+        "contato": "",
+        "description": "608847\nCLIENTE BLOQUEADO",
+        "CNPJ": "43177486000140",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "Transferi para a assistência técnica",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "Problema no ponto eletronico.",
+        "tranferencia": "ASSISTÊNCIA TÉCNICA - 31203"
+    },
+    {
+        "cliente": "LENINHA",
+        "contato": "",
+        "description": "890917545\n16AE26.D422E1.C992D1.0DF8F0.39A818.334DD3.06593A",
+        "CNPJ": "07075138005400",
+        "build": "24615",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "ADERVAL",
+        "contato": "",
+        "description": "Faltava apenas uma carga para o caixa.",
+        "CNPJ": "22385711000164",
+        "build": "24327",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "Gerei a chave para o cliente pois ele não conseguiu gerar automaticamente mesmo a rede dele aparentando está ok.\n- 8D0866.A16916.02102D.FC1806.233004.B95675.2D82E3",
+        "CNPJ": "03250003000171",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vitor",
+        "contato": "",
+        "description": "",
+        "CNPJ": "24140",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "",
+        "CNPJ": "15117329000104",
+        "build": "25141",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones Automario",
+        "contato": "",
+        "description": "foi gerado uma chave com troca de controle para o cliente como solicitado pela revenda. -\n6383FD.BA5E33.E280B0.3717B8.84043E.3029A2.0D9D73",
+        "CNPJ": "34860747000131",
+        "build": "17683",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Maria",
+        "contato": "",
+        "description": "CLIENTE BLOQUEADO",
+        "CNPJ": "10482107000177",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "IAN",
+        "contato": "",
+        "description": "40D667.BA2672.710DAF.BF7045.638F0C.F803EF.6125C0",
+        "CNPJ": "13324184000197",
+        "build": "",
+        "assunto": "SysPDV WEB - Geração de Chave"
+    },
+    {
+        "cliente": "Vinicius",
+        "contato": "",
+        "description": "Troca do HD do computador\n22371\n- 582C4D.2140DA.80192F.630885.A99203.51F305.F76AAA\n",
+        "CNPJ": "18950390000126",
+        "build": "24304",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Julio",
+        "contato": "",
+        "description": "Troca do computador\n638792",
+        "CNPJ": "10202474000170",
+        "build": "20848",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Elizete",
+        "contato": "",
+        "description": "O SISTEMA FICOPU MUITO TEMPO PARADO E AGORA TA PEDINDO CHAVE",
+        "CNPJ": "",
+        "build": "24039",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Mayara",
+        "contato": "",
+        "description": "PROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave para o cliente como solicitado pois o ,mesmo não conseguia gerar pelo ONLINE-F5.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso.\n\n0F0311.7C8626.F84D29.23CC00.88063B.AA2107.A5D977",
+        "CNPJ": "78819984000124",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Dinaldo",
+        "contato": "",
+        "description": "7E5E8F.85180E.AE2263.AB9292.2C4DA3.016CD5.95A5B8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mayara",
+        "contato": "",
+        "description": "",
+        "CNPJ": "39673613000125",
+        "build": "24292",
+        "assunto": ""
+    },
+    {
+        "cliente": "DAYANE",
+        "contato": "",
+        "description": "9267\n728713\nBLOQUEADO",
+        "CNPJ": "12041418000126",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Erich",
+        "contato": "",
+        "description": "443540\n283648\n\n075339.E68042.28C948.234C02.48E109.A1C282.CEA6ED",
+        "CNPJ": "",
+        "build": "25476",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ila",
+        "contato": "",
+        "description": "BLOQUEADO",
+        "CNPJ": "26767436000102",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Higo",
+        "contato": "",
+        "description": "Foi realizado a geração de chave para o sistema pelo ONLINE-F5\n10395",
+        "CNPJ": "07646913000129",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JOAO",
+        "contato": "",
+        "description": "O cliente gerou pelo Online-F5",
+        "CNPJ": "02108005000168",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Everton MD",
+        "contato": "",
+        "description": "Troca de controle após mudança do server.\n642357\n201914772",
+        "CNPJ": "",
+        "build": "24352",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Luan",
+        "contato": "",
+        "description": "639848\n\n525349\n6083CD.0B179D.08D970.340598.31CA36.3923E5.2DA32F",
+        "CNPJ": "38854440000189",
+        "build": "24327",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Magno",
+        "contato": "",
+        "description": "31199\n08.967.124/0001-52\n45.012.270/0001-50 - Nova\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "DJANICE",
+        "contato": "",
+        "description": "7013\n572781",
+        "CNPJ": "",
+        "build": "16551",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "442683",
+        "CNPJ": "05793965000100",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Barbara",
+        "contato": "",
+        "description": "641218\n275898\n698E31.42B7EA.623710.318CD8.933C32.392811.75A52D",
+        "CNPJ": "02889730000110",
+        "build": "24676",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "MICAEL",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Walmom",
+        "contato": "",
+        "description": "643211\n70371F.3910C9.782663.D51147.238823.0123A1.9EC358",
+        "CNPJ": "",
+        "build": "24938",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LUCILANDIA",
+        "contato": "",
+        "description": "BLOQUEADO",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Carla",
+        "contato": "85981207492",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jhenifer",
+        "contato": "",
+        "description": "17505",
+        "CNPJ": "24157516000102",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joyce",
+        "contato": "",
+        "description": "642951\n520245",
+        "CNPJ": "11806688000541",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "CRISTINIANE",
+        "contato": "",
+        "description": "",
+        "CNPJ": "32538210000159",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "livia",
+        "contato": "",
+        "description": "029625",
+        "CNPJ": "14330103000124",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rose",
+        "contato": "85998342122",
+        "description": "85998342122\n\n618FA9.495EE2.61B9A0.303108.0AAD3A.312219.B5A3CD",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de cont"
+    },
+    {
+        "cliente": "David",
+        "contato": "",
+        "description": "4611\n751073\n58A7BD.01992A.348866.A308A7.C96203.0ED36D.F0D6E0\n\n",
+        "CNPJ": "05916964000106",
+        "build": "25509",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Luis Eduardo",
+        "contato": "",
+        "description": "3851B3.C007A9.F48702.B96925.657802.135A0A.3D3D9A",
+        "CNPJ": "01593332000190",
+        "build": "24548",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Euristenio",
+        "contato": "",
+        "description": "132796279",
+        "CNPJ": "02045499308",
+        "build": "25529",
+        "assunto": "SysPDV - Duvidas após atualização de geração de chave"
+    },
+    {
+        "cliente": "Joao AUTOMARIO",
+        "contato": "",
+        "description": "641794\n417877\nTroca de servidor\nREALIZADO A TROCA DO SERVIDOR DE COMPUTADOR\njotapeempresa@gmail.com\n",
+        "CNPJ": "40629226000170",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Lucas",
+        "contato": "",
+        "description": "824080\n\n6983AD.6073C1.84A310.385568.2B7D36.392FA3.BDA62A\n",
+        "CNPJ": "15069168000392",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Regina",
+        "contato": "",
+        "description": "Gerei pelo milênio mas passei o procedimento de gerar pelo site.",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Adilson",
+        "contato": "",
+        "description": "636629\n8F0BED.F261BA.E22709.1697F5.8F33DF.A6DE51.278AE3",
+        "CNPJ": "13645633000107",
+        "build": "25328",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "WOLNEY",
+        "contato": "8533424404",
+        "description": "O cliente gerou a chave pelo ONLINE-F5",
+        "CNPJ": "08930700000197",
+        "build": "22121",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "25388\n860722.B9E9D9.B337ED.252005.83300F.DEC545.218A93",
+        "CNPJ": "",
+        "build": "24427",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luana",
+        "contato": "",
+        "description": "35999\n586008",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Magno",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Iana",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "23621",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "634911\n466692223\nAtualizei o sistema e agora preciso de uma chave.\n2E7292.F80BE2.9AEC8B.39CA2F.5E0502.E81D39.13F0E6",
+        "CNPJ": "32618094000153",
+        "build": "25599",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "KARINA",
+        "contato": "",
+        "description": "38824E.4E02D6.A672E6.09029C.957812.932209.613F10",
+        "CNPJ": "00217975000176",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Alessandro",
+        "contato": "",
+        "description": "Chave gerada pelo site\n\n\n\n\n443624\n275421\n\n396240826\niasnksmm",
+        "CNPJ": "21101469000197",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "Troca de servidor\n442740\n615956\n98CE81.F9692B.6905E4.498823.014FC9.30295A.0D9948",
+        "CNPJ": "33701113734",
+        "build": "17847",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Guilherme",
+        "contato": "",
+        "description": "Guilherme\nQuer chave\nCNPJ: 35.002.423/0001-25\nSerie: 642518\nControle: 571308",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Loren",
+        "contato": "",
+        "description": "34029\n395975\n890CA6.E169D9.C280ED.9B3945.833070.CDC135.288254",
+        "CNPJ": "30347071000126",
+        "build": "18258",
+        "assunto": ""
+    },
+    {
+        "cliente": "Leandro",
+        "contato": "",
+        "description": "",
+        "CNPJ": "35570644000108",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Daiane",
+        "contato": "",
+        "description": "\n\n16AE26.D122E1.C997DF.0798D6.1F18AC.040993.41D05A",
+        "CNPJ": "12041418000126",
+        "build": "23687",
+        "assunto": ""
+    },
+    {
+        "cliente": "Lucas",
+        "contato": "",
+        "description": "24159",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Lucas",
+        "contato": "",
+        "description": "443288\n057776\n772EAE.639999.FC9783.219A84.29C5A4.0CA182.1802D8",
+        "CNPJ": "",
+        "build": "22645",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Isac",
+        "contato": "",
+        "description": "16421\n514788",
+        "CNPJ": "02692348000112",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Roberto",
+        "contato": "",
+        "description": "643032\n880894\n9B8F39.690EE2.A8B862.816A3E.E57C1F.3021D1.45A448",
+        "CNPJ": "43898912000135",
+        "build": "24739",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Samy",
+        "contato": "",
+        "description": "880750\n\n3827BE.21024D.963362.190D1E.2D48A2.132F30.01445E\n",
+        "CNPJ": "17623295000155",
+        "build": "23970",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Cleidiane",
+        "contato": "",
+        "description": "3896FE.980AD8.E65516.22D39C.45D8A2.938F39.9144EC",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Val",
+        "contato": "",
+        "description": "3515\n830325.2566B4.2293B2.FA2D2D.8E3024.6C6FB2.2284E4",
+        "CNPJ": "",
+        "build": "22733",
+        "assunto": ""
+    },
+    {
+        "cliente": "Virginia",
+        "contato": "",
+        "description": "0714B1.D68635.AC3EA0.238F00.F4E159.43C20B.01048E",
+        "CNPJ": "03616846000149",
+        "build": "25599",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Guilherme",
+        "contato": "",
+        "description": "Online-F5",
+        "CNPJ": "",
+        "build": "24520",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Stefhany",
+        "contato": "",
+        "description": "866003 -\n2292A2.882489.021E37.317C14.6EA57F.E8D84F.83403F",
+        "CNPJ": "42986967000134",
+        "build": "24439",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Werney",
+        "contato": "",
+        "description": "30757\n584545525\n38426E.8802D6.A663EC.2D739C.95E822.937F09.4144EC",
+        "CNPJ": "28480561000154",
+        "build": "0",
+        "assunto": ""
+    },
+    {
+        "cliente": "Everton",
+        "contato": "",
+        "description": "539939\n27D2D2.D82D83.5C1268.59C730.51CBEF.D4144D.E340ED",
+        "CNPJ": "",
+        "build": "9981",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Alexandre",
+        "contato": "",
+        "description": "632936",
+        "CNPJ": "01991971000103",
+        "build": "25599",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "joao vitor",
+        "contato": "",
+        "description": "0154B5.D68648.2EC923.23EF02.84E15A.41C28C.0A9D6A",
+        "CNPJ": "",
+        "build": "23541",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "ISAQUE",
+        "contato": "",
+        "description": "2521\n365582\n38A20E.C502D6.A641E3.2C841C.912C02.B34F09.414406\n",
+        "CNPJ": "00167193000170",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Elias",
+        "contato": "",
+        "description": "carga",
+        "CNPJ": "37277724000197",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "nilton",
+        "contato": "",
+        "description": "Serie 21924\nControle 838959",
+        "CNPJ": "",
+        "build": "24833",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Renan",
+        "contato": "",
+        "description": "OCORRÊNCIA RELATADA:\n\nPreciso de uma chave para meu sistema.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nOrientei o cliente a gerar uma chave pelo site pois pelo botão ONLINE-F5 não funcionou.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso.",
+        "CNPJ": "27814723000180",
+        "build": "23705",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "CAMILA",
+        "contato": "",
+        "description": "640757",
+        "CNPJ": "18489821000107",
+        "build": "24779",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Ernanda",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Adriana",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "11786",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Emanuel",
+        "contato": "",
+        "description": "emanueltorrys@gmail.com\n88 9 99083650\n\nserie: 636250\ncontrole: 455878\nversão: 19.10\nMotivo: Troca de maquina\n\n167DFE.B532E4.B28511.076CD3.772810.346F63.6CB9A8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Felipe",
+        "contato": "",
+        "description": "23426\n006292\n40BF69.A62064.6E1861.BE3065.638929.C124AC.7F3158\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Daniele",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luci",
+        "contato": "",
+        "description": "302569\nOnline F5\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "ALZENIR",
+        "contato": "",
+        "description": "ONLINE - F5 nao funciona",
+        "CNPJ": "07210868000165",
+        "build": "20463",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Mateus",
+        "contato": "",
+        "description": "029869",
+        "CNPJ": "",
+        "build": "25660",
+        "assunto": ""
+    },
+    {
+        "cliente": "Everton",
+        "contato": "",
+        "description": "634677\n18CCD8.2842E7.9B86D1.0168B3.1788DD.346A63.6C59A4",
+        "CNPJ": "",
+        "build": "24352",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "Revenda, chave, talvez troca de controle\n304778\n1EE29A.6222E1.C9A713.086C6D.A4089D.246073.6C1881\n443873",
+        "CNPJ": "26954391000177",
+        "build": "0",
+        "assunto": ""
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "550825",
+        "CNPJ": "10171649000129",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "janifer",
+        "contato": "",
+        "description": "636466\n882669",
+        "CNPJ": "",
+        "build": "25196",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "edivando",
+        "contato": "",
+        "description": "35116\n756853381\n8E0EC9.0169AD.7295C1.683265.8E3036.C7C34C.2680C4",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Raquel",
+        "contato": "",
+        "description": "641719\n876124\n025419.D38645.76E02E.630603.8CE576.6182A1.6524D9",
+        "CNPJ": "06339545000618",
+        "build": "21504",
+        "assunto": "",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Camila",
+        "contato": "",
+        "description": "640097\n586817- \nGerado pelo ONLINE-F5\n",
+        "CNPJ": "15309419000288",
+        "build": "21476",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "MICHELE",
+        "contato": "85986306679",
+        "description": "640765\n110061\n683466915\nONLINE-F5",
+        "CNPJ": "21319986000137",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "DANIELLE",
+        "contato": "",
+        "description": "Faltava uma carga para o caixa. ",
+        "CNPJ": "13052111400127",
+        "build": "24246",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Nonato filho",
+        "contato": "",
+        "description": "443233\n965336\n38822E.7202D6.A623E5.B1749C.916C82.B3FD29.1147F4\n730888268",
+        "CNPJ": "17763504000166",
+        "build": "24054",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "luan",
+        "contato": "81996365231",
+        "description": "006906\n9384C3.DEE855.B0F00A.127938.35A22D.302B1D.740948",
+        "CNPJ": "33088174000107",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Thais",
+        "contato": "",
+        "description": "Troca do PC\n58F1B1.1AB62E.A6D954.DE089C.E45203.D2C4D5.6676D9",
+        "CNPJ": "13967980000148",
+        "build": "20885",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Alberto",
+        "contato": "",
+        "description": "OCORRÊNCIA RELATADA:\n\nMeu caixa está dizendo chave expirada.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nA chave já tinha sido gerada, faltando apenas enviar uma carga para o caixa. Orientei o cliente a enviar uma carga.\n\n \n\nRESULTADO:\n\nChave atualizada com sucesso no PDV\n\n ",
+        "CNPJ": "05942646000101",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Paula",
+        "contato": "",
+        "description": "442425\n578870\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Alana",
+        "contato": "",
+        "description": "065448",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "THAYANNE",
+        "contato": "",
+        "description": "518008\nSITE",
+        "CNPJ": "44498523000185",
+        "build": "25013",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Janaina",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "luis",
+        "contato": "",
+        "description": "380627554\ncliente cobrado 16.1 att",
+        "CNPJ": "",
+        "build": "664",
+        "assunto": ""
+    },
+    {
+        "cliente": "LEANDRO",
+        "contato": "",
+        "description": "634364\n156935 - troca do servidor\n\nji4h61\n\n1D1E58.4772E1.E02059.0AD8BA.F538CC.3473D3.B459EE",
+        "CNPJ": "",
+        "build": "25660",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "janderson",
+        "contato": "",
+        "description": "443308",
+        "CNPJ": "",
+        "build": "22756",
+        "assunto": ""
+    },
+    {
+        "cliente": "maria",
+        "contato": "",
+        "description": "13376\n785699\n29D212.88A3A8.6964A3.09C48C.5DE5AD.B81147.E370ED\n",
+        "CNPJ": "",
+        "build": "19176",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "RODRIGO",
+        "contato": "",
+        "description": "0204A1.AA8436.ACC9F4.B3FD05.54E531.71E2B0.DC36E3",
+        "CNPJ": "41432105000105",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Alexandre",
+        "contato": "",
+        "description": "30376\n791491\n\n10.749.278/0001-10\n641141\n",
+        "CNPJ": "",
+        "build": "25660",
+        "assunto": ""
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "34467\n753699\n012495.AA8A71.63E113.B3CD00.D4E550.71823D.D90B84\nPreciso de uma chave com troca de controle pois o cliente trocou de computador.",
+        "CNPJ": "",
+        "build": "22144",
+        "assunto": ""
+    },
+    {
+        "cliente": "PAULA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "23458912000107",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Lucas",
+        "contato": "",
+        "description": "mudança versão\n643550\n11.10 - 19\n835128488",
+        "CNPJ": "",
+        "build": "25677",
+        "assunto": "SysPDV - Geração de Chave Mudança de versão"
+    },
+    {
+        "cliente": "Paula",
+        "contato": "",
+        "description": "FALTA DE CARGA",
+        "CNPJ": "",
+        "build": "21953",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "SHEILA",
+        "contato": "",
+        "description": "726496\nGerada online",
+        "CNPJ": "",
+        "build": "24031",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JUNIOR",
+        "contato": "",
+        "description": "086651\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Nathalia",
+        "contato": "85985364720",
+        "description": "5568\n255279480 anydesk\n19002437",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Natalia",
+        "contato": "",
+        "description": "449538247\n637714\n584BF1.A1E8A7.1E396E.4E081C.1D4233.521405.549699",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Junior",
+        "contato": "",
+        "description": "03343D.7B8633.76E020.F33400.3DE11F.91C205.6E24D9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "abner",
+        "contato": "",
+        "description": "17066\n715508\n8B0DD9.756047.D27421.41C1FA.AE3519.B3B82E.258964\n",
+        "CNPJ": "95846648000190",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Cristian AMD LAN",
+        "contato": "",
+        "description": "A revenda solicitou uma geração de chaves com atualização de versão mais como o cliente é da modalidade mono, não consegui gerar a chave, então orientei a revenda falar com o setor de canais pois seria um atendimento cobrado. Ele informou que iria instalar a versão antiga mesmo. Eu orientei que ele poderia sim instalar esta versão sem problemas, mas que era aconselhável realizar a atualização da versão. Ele informou que iria ver com o cliente e retornar caso fosse preciso atualizar a versão.",
+        "CNPJ": "07615542000118",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JORGE",
+        "contato": "",
+        "description": "599964\n0C24B9.838641.4E2622.F30405.27E3E6.9242D1.FBBB24 ********\nfoi realizado a troca de controle pra o cliente.",
+        "CNPJ": "07049801000190",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Diego PCI",
+        "contato": "",
+        "description": "600397\nhttps://objectstorage.us-ashburn-1.oraclecloud.com/n/casamagalhaes/b/syspdv/o/setup%2FInstaladorSysPDV19_10_0_24274.exe\n\n\n\nOCORRÊNCIA RELATADA:\n\nPreciso de uma chave para meu sistema.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave com troca de controle para o cliente como solicitado pela revenda.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso.\n\n6DC440.685102.23F5B0.385438.0C2907.4220E8.FB3522",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "ficou de retornar",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "DAVI",
+        "contato": "",
+        "description": "618F49.659692.6927D0.34D1C8.F1D938.422C5D.F5A7B0\n\n\n\n\nOCORRÊNCIA RELATADA:\n\nPreciso de uma chave para meu sistema pois não está gerando pelo ONLINE-F5\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi realizado uma geração de chaves para o cliente com troca de controle como solicitado.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso.\n\n618F49.659692.6927D0.34D1C8.F1D938.422C5D.F5A7B0",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "EVILLANIA",
+        "contato": "85988616289",
+        "description": "642688\n381A0F.0402BE.A661E7.F52D51.05E8A2.132431.794951",
+        "CNPJ": "14837383000161",
+        "build": "24246",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "DANILO",
+        "contato": "92981825642",
+        "description": "Serie: 633918\nControle: 572099 \nFoi realizado a troca da placa mãe do computador agora o sistema está solicitando uma chave.\n928E11.557BBA.633064.75E930.B5A3CC.30298D.AC3E48\nGerado pelo ONLINE\n",
+        "CNPJ": "32874169000167",
+        "build": "18179",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Leia",
+        "contato": "",
+        "description": "Serie: 643391 / \nControle: 574368 / \nFoi gerado uma chave para o cliente pois ele ainda está em fase de implantação e não consegue gerar ONLINE.\n43EAC7.9C5615.964D29.608043.A389A8.E18465.222E58",
+        "CNPJ": "32067940000194",
+        "build": "25242",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "Como era revenda passei para o setor de canais pois o cliente estava bloqueado.",
+        "CNPJ": "03517397000181",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "Welton",
+        "contato": "",
+        "description": "30925 - no CNPJ\n35116 - O que ta aparecendo no sistema do cliente\n\nIBO 14712387000113\n037928\n\n38C25E.020A3E.16727D.41659C.955822.93CC09.614AC8",
+        "CNPJ": "",
+        "build": "22860",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "641633\n806786",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "SR RANIERE",
+        "contato": "",
+        "description": "14387\n888658\n\n250710447\n0C5492.988654.955920.439C00.453528.AD8213.C4EDC2",
+        "CNPJ": "06947386000120",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "799469382\n4335CA.4C5666.9C6AA9.59804A.A38AAF.5D8495.252358",
+        "CNPJ": "",
+        "build": "24152",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Felipe Pinheiro",
+        "contato": "",
+        "description": "643504\n900759\nChave para nocva versão 19.0\n38221E.340B6E.CE6488.38DF5C.A518A2.83DC39.E14AD2",
+        "CNPJ": "23171964000106",
+        "build": "25599",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JOELITON",
+        "contato": "",
+        "description": "8504\n351657\n------------\nEle não consegue gerar a chave nem pelo ONLINE nem pelo site. Verifiquei no milênio e aparentemente ta tudo certo lá, mas quando vou no Hermes mostra que ele é de revenda mais o status da revenda ta INATIVO. Eu gerei a chave pra ele e fechei ticket mas orientei ele a entrar em contato com o pessoal dos contratos, já que a chave está sendo gerada por nós faz um tempo. =>\n223A00.7843A4.0F882C.0EDC54.2885AC.885F49.C3A066",
+        "CNPJ": "00087096000177",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "troca de servidor\n28242\n275509\n0E94BE.0C8E01.625932.43EC00.D13D03.AD822D.9D20FB",
+        "CNPJ": "26959067000141",
+        "build": "23311",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jailton",
+        "contato": "",
+        "description": "643516\n9CC450.D90CD4.73E0C4.2A6A3C.5B884C.302285.ADB948",
+        "CNPJ": "38778762000196",
+        "build": "24035",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "GIDEL",
+        "contato": "",
+        "description": "642594\n217777\n43D4C2.BC2636.AED629.D98049.A38DAE.C174C5.292E58",
+        "CNPJ": "28020148000107",
+        "build": "24281",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Rosagela",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "Contra senha do ponto",
+        "tranferencia": "ASSISTÊNCIA TÉCNICA - 31203"
+    },
+    {
+        "cliente": "Sandra",
+        "contato": "85999257248",
+        "description": "24\n954959\n\n\tsandracaldas87@gmail.com\n16AE26.D522E1.C99252.1B2FD6.6B189F.14FB43.1FF030",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "WALKER",
+        "contato": "",
+        "description": "8598\n663880\n880DFE.416EC7.E22535.210915.8630CF.1E0C9D.0281C4",
+        "CNPJ": "86750569000190",
+        "build": "27107",
+        "assunto": "",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "José neto",
+        "contato": "",
+        "description": "643288\n\n7199211583\nallisson0d@gmail.com\n\n058419.8C8651.A711A3.13B203.0FF5EC.F982A7.2F0261",
+        "CNPJ": "",
+        "build": "25306",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Oton",
+        "contato": "",
+        "description": "Problema de chave; CNPJO antigo e novo",
+        "CNPJ": "39660625000115",
+        "build": "22855",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "WESLEY",
+        "contato": "71991132244",
+        "description": "058436.158201.714224.13E200.584BDA.F0C227.000F0B",
+        "CNPJ": "15168265000170",
+        "build": "24274",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leila",
+        "contato": "",
+        "description": "640094\nC 896478",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "MARCIO",
+        "contato": "",
+        "description": "637030\n973053\n19.10\n\n217289600\n8504FD.F12F95.2209A5.26911B.CE33CF.6E2F20.228D14",
+        "CNPJ": "33484681000160",
+        "build": "21218",
+        "assunto": ""
+    },
+    {
+        "cliente": "AMELIA",
+        "contato": "",
+        "description": "24714\n215006\n1535686226\n8801\n\n",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Gabriel",
+        "contato": "",
+        "description": "443920 - 11.10\n016135",
+        "CNPJ": "45059936000126",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ARNAUDO",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "DANIEL",
+        "contato": "",
+        "description": "ONLINE-F5",
+        "CNPJ": "41556168000165",
+        "build": "25057",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "442657\n311562\nGerado pelo site",
+        "CNPJ": "02713654000350",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "maiane",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "ASSISTÊNCIA TÉCNICA - 31203"
+    },
+    {
+        "cliente": "TIAGO",
+        "contato": "",
+        "description": "443449\n63CE21.C4E7EA.663310.3B1C28.96CF22.492EDF.118562",
+        "CNPJ": "14899783000100",
+        "build": "23541",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Vania",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "OUVIDORIA - 31206"
+    },
+    {
+        "cliente": "Zenete",
+        "contato": "",
+        "description": "29153\n689980\n40799D.248638.0CA72E.19B05E.038924.C1A55F.8C2E58",
+        "CNPJ": "27094063000100",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Almir",
+        "contato": "",
+        "description": "111\n96058E.9FFEC2.34C466.B33000.4C03D9.30223E.0C0558",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Raimundo",
+        "contato": "",
+        "description": "638134\nONLINE",
+        "CNPJ": "",
+        "build": "20205",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Gorete",
+        "contato": "",
+        "description": "server desinstalado",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Janaina",
+        "contato": "",
+        "description": "18086",
+        "CNPJ": "38713861000190",
+        "build": "24160",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Dario",
+        "contato": "",
+        "description": "33102\n989635\nREVENDA TA FAZENDO TESTES DE MIGRAÇÃO DO CLIENTE\n- Milênio para Varejo",
+        "CNPJ": "",
+        "build": "25702",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Junior",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ronei",
+        "contato": "",
+        "description": "33650",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ricardo",
+        "contato": "",
+        "description": "27911\n666000",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "MARCIO",
+        "contato": "",
+        "description": "25244\n810179.822972.2A07A1.902D6D.8E30B0.13943C.208C75",
+        "CNPJ": "14949301000170",
+        "build": "25702",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Denilson",
+        "contato": "",
+        "description": "Gerado uma chave para o cliente.",
+        "CNPJ": "29903753000199",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Socorro",
+        "contato": "",
+        "description": "w5zt28 - ONLINE",
+        "CNPJ": "03944540000111",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Daniel",
+        "contato": "",
+        "description": "15159\n688845\n146CA6.9332E7.9C61D9.029863.3C4899.0502A3.675143",
+        "CNPJ": "17176175000157",
+        "build": "23032",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Daniel",
+        "contato": "",
+        "description": "35667\n179625\n2C2632.F86266.9315B3.095E7B.EC35B9.38DE59.A30034",
+        "CNPJ": "",
+        "build": "18734",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "GREICIANE",
+        "contato": "",
+        "description": "2456\n728818\n5C8861.0D82A7.1E3946.9E08BC.A79203.B21531.0B0619\nTeve uma queda de energia na loja e agora está aparecendo controle invalido no sistema.",
+        "CNPJ": "",
+        "build": "20980",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Fernando",
+        "contato": "",
+        "description": "635756\n523365\n\nEle não soube informar o motivo da troca.",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Jurdania",
+        "contato": "",
+        "description": "641514\n796790\nFOI GERADO UMA CHAVE NO TERMINAL E NÃO NO SERVIDOR\n1A76A6.B2E23D.706322.03985B.23B82F.350903.67DAB4",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "NATALIA",
+        "contato": "",
+        "description": "634881\n485556\n29.531.588/0001-91\nONLINE",
+        "CNPJ": "29531588000191",
+        "build": "16721",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jairo",
+        "contato": "",
+        "description": "764\n0EE5A5.0D8646.24C9AC.632911.47EF98.01F203.B2A6F4",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "MARCIA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "23366585000163",
+        "build": "19523",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "CARLEIDE",
+        "contato": "",
+        "description": "640669",
+        "CNPJ": "",
+        "build": "24186",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "João",
+        "contato": "",
+        "description": "640646\n968574.2F88E2.D2F76A.D61A32.6D49A0.302158.242758\n\n 979052 ticket\nOCORRÊNCIA RELATADA:\n\nJá realizei o pagamento ontem, porem está expirado o acesso.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave para o cliente como solicitado.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso.\n\n968574.2F88E2.D2F76A.D61A32.6D49A0.302158.242758",
+        "CNPJ": "03889597000165",
+        "build": "24082",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Gabriel",
+        "contato": "",
+        "description": "643318\n369976\n1EAE26.B9A2F9.110291.07088A.4BB8A1.352313.B05AA0",
+        "CNPJ": "44101353000153",
+        "build": "25529",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Everton",
+        "contato": "",
+        "description": "mudança de servidor\n633009\n\n931750\n\n108769884\n380BBE.0B057B.6828F9.B3801E.157892.130030.01521A",
+        "CNPJ": "",
+        "build": "24467",
+        "assunto": ""
+    },
+    {
+        "cliente": "Renata",
+        "contato": "",
+        "description": "Problema na carga pra gerar a chave",
+        "CNPJ": "11423220000144",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "CARLOS",
+        "contato": "",
+        "description": "442894\n38163E.490271.768684.A913DC.51CC82.436029.815217",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Domenico",
+        "contato": "",
+        "description": "638123\nc - 870787",
+        "CNPJ": "",
+        "build": "25529",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Josi",
+        "contato": "",
+        "description": "639918",
+        "CNPJ": "",
+        "build": "21504",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LEONARDO",
+        "contato": "",
+        "description": "442446\n800063\n650",
+        "CNPJ": "",
+        "build": "20635",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Zenaneide",
+        "contato": "8534974991",
+        "description": "639856\n174987\n928F09.710EE2.A2B86B.B5CA31.A53A10.302131.2CAD58",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "AMELIA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "DIOGENES",
+        "contato": "",
+        "description": "632721\n577278\n648F09.0E6EE2.69B9A0.386168.09023A.51241E.A598D0",
+        "CNPJ": "",
+        "build": "24593",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Mateus",
+        "contato": "",
+        "description": "2084445000120\n635039\n513687\n\ntroca da maquina\n\n58F0B1.9AC53A.46D994.0E081C.20B233.1285C5.422A59",
+        "CNPJ": "20384445000120",
+        "build": "24233",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Raylanhe",
+        "contato": "008532616956",
+        "description": "636508\n816547\n650\n8532616956\n64szewts\nnqfcg12x\nkbkxqzr9\nRAW:TP-650 \n----\n------\n----------\n--------------------------------------------------------------\nhttps://grupocasamagalhaes.movidesk.com/kb/article/161508/syspdv-mensagens-no-pdv-art?ticketId=&q=mfe.dll\n-TANCA TP-650\n-\n-\nhttps://grupocasamagalhaes.movidesk.com/kb/article/178219/syspdv-configurar-impressora-no-spool-do-windows-como-escpos-no-pdv-artg?preview=true&revisionId=577510\n-\n-------------------------------------------------------------------\n1031717824",
+        "CNPJ": "07087912000191",
+        "build": "20454",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Rosagela",
+        "contato": "",
+        "description": "Elgin i9",
+        "CNPJ": "20936212000192",
+        "build": "",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "VALERIA",
+        "contato": "",
+        "description": "474dxv\n\nSelecionei a etiquetadora nas configurações.",
+        "CNPJ": "33218290000101",
+        "build": "",
+        "assunto": "SysPDV - Não consigo fazer impressão de etiquetas"
+    },
+    {
+        "cliente": "MAGELA ",
+        "contato": "",
+        "description": "https://download.teamviewer.com/download/TeamViewelrQS.exe\n\nlink 010001",
+        "CNPJ": "",
+        "build": "23069",
+        "assunto": "Syspdv - erro de impressão"
+    },
+    {
+        "cliente": "REGIO",
+        "contato": "",
+        "description": "526697834\nst55vm2r\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Não consigo fazer impressão de etiquetas."
+    },
+    {
+        "cliente": "Bruno",
+        "contato": "",
+        "description": "270\n\n346597\n09058B.5E8431.67FF77.F3D700.955C0E.380209.52F434",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV Web - Geração de Chave"
+    },
+    {
+        "cliente": "Jane",
+        "contato": "",
+        "description": "",
+        "CNPJ": "08405578000130",
+        "build": "",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "Junior",
+        "contato": "",
+        "description": "Senha Team - 3czy8bqj\nO monitor MFE não está abrindo",
+        "CNPJ": "",
+        "build": "23272",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "DIANA",
+        "contato": "",
+        "description": "443696\n8E0A8D.DB69D2.623491.778BF1.CE32B3.B6E58C.2A8AE5",
+        "CNPJ": "21036701000150",
+        "build": "24327",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "HILARIO",
+        "contato": "",
+        "description": "",
+        "CNPJ": "13453118000117",
+        "build": "",
+        "assunto": "SysPDV -  Meu caixa tem um MFE mais está configurado como docgate"
+    },
+    {
+        "cliente": "Daniele",
+        "contato": "",
+        "description": "5kdh49\n36308",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Claudia",
+        "contato": "",
+        "description": "Reiniciei a maquina do cliente abrir o servidor e o caixa, e na função 500/ confirmei as configurações de impressão.",
+        "CNPJ": "43768062000150",
+        "build": "24565",
+        "assunto": "SysPDV - Não consigo abrir o sistema"
+    },
+    {
+        "cliente": "JENNYFER",
+        "contato": "",
+        "description": "9FFE81.9A96E2.20D06F.69C01A.EFFBC7.312989.32A158",
+        "CNPJ": "28792750000162",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Igor",
+        "contato": "",
+        "description": "443066\nc 966509\n422B72.3AD688.AED62B.49B0FA.338D8F.C145B8.692E1C\n",
+        "CNPJ": "24845842000102",
+        "build": "21153",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Raquel",
+        "contato": "",
+        "description": "64\n692457\n658743325\narg826\n\n790285.CF51FB.A1A363.0CB86F.2700F5.0D5102.EF3238",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Virginia",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "23187",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "Paula",
+        "contato": "",
+        "description": "443409\n780000\n5C37F1.8BA22E.A6D95D.7E08BC.586223.A2E551.0A3699",
+        "CNPJ": "37818898000110",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rosana",
+        "contato": "",
+        "description": "Foi realizado a reinstalação da impressora ElGIN i7 e configurado no PDV através da função 500/",
+        "CNPJ": "31909770000347",
+        "build": "23159",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Marta Solange",
+        "contato": "85989258017",
+        "description": "03.754.022/0001-35 - \n633826\t- \nc 001089 -\n19.0 -                                                                                                   Cliente com o contrato Interrompido, solicitando chave. Financeiro ficou de retornar pra ela.",
+        "CNPJ": "03754022000135",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Naiara",
+        "contato": "(85) 99612-7481",
+        "description": "7340\n90667\n1\nOrientei o cliente a fazer att - \n6548F4.90DB7F.436170.372AB8.F80454.572C51.4BB9F4",
+        "CNPJ": "09204104000192",
+        "build": "5033",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "ANDRÉ",
+        "contato": "",
+        "description": "tanca 650",
+        "CNPJ": "41550666000109",
+        "build": "24707",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Matheus",
+        "contato": "",
+        "description": "642079\n282AA2.684264.70EAE6.31171E.1085CF.489151.0340FB\n",
+        "CNPJ": "42651773000188",
+        "build": "23862",
+        "assunto": "",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Bruno",
+        "contato": "",
+        "description": "269\n007067\n401BFC.167420.119877.91804F.43830E.DE0531.7825C0",
+        "CNPJ": "35631376000340",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Jackson",
+        "contato": "008436743168",
+        "description": "\n70061E.519396.AE2363.251804.2F8205.0CA826.114DD8\n",
+        "CNPJ": "05420100000190",
+        "build": "22188",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "VILANIR",
+        "contato": "",
+        "description": "36023\n692303\n6akt97\n654EF1.C046D2.644990.370E08.283457.502351.4BE3B1",
+        "CNPJ": "",
+        "build": "10250",
+        "assunto": ""
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "1446\n977761\n7piv31\n\n0FF52D.D28679.24C9AC.432F11.21EF5C.41F208.2CA6F4",
+        "CNPJ": "11753522000180",
+        "build": "10943",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "fatima",
+        "contato": "",
+        "description": "3134\n155158\n\ncwk584",
+        "CNPJ": "",
+        "build": "22769",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Bruno",
+        "contato": "",
+        "description": "876986\n8B0312.D149A6.37355D.F3AA45.833384.F898A5.2084E5\nPreciso de uma chave com troca de versão.",
+        "CNPJ": "",
+        "build": "25168",
+        "assunto": "SysPDV - Troca de versão"
+    },
+    {
+        "cliente": "Geovani",
+        "contato": "",
+        "description": "45.084.983/0001-18\n45084983000118",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "Alan",
+        "contato": "",
+        "description": "636724\n678306\nTroquei a placa mãe do computador\n18C4A6.A7623D.592021.07F8E8.D83819.354A03.415947",
+        "CNPJ": "08819762000126",
+        "build": "25105",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "mailson",
+        "contato": "",
+        "description": "\n2CA202.2833A4.6964AB.09C824.DC1D9F.28105E.2340ED\n\nm225nh\n",
+        "CNPJ": "",
+        "build": "20764",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rodrigo",
+        "contato": "",
+        "description": "261\n916513\n\n1106317070\n6705FE.66E187.459010.37CD08.88940C.512EB1.4C0076\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rodrigo",
+        "contato": "",
+        "description": "077856\nkxi3wwpj\n890817.A74F46.3759F8.F9074C.053084.D750BF.268475",
+        "CNPJ": "35631376000421",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ABMAEL",
+        "contato": "",
+        "description": "442440\n452481 - \n5FD211.97052E.A6D913.5E18AC.7A0233.82D51F.D896D9",
+        "CNPJ": "04228888348",
+        "build": "11995",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Vitor",
+        "contato": "",
+        "description": "692558 19.0\n\nhttps://downloads.casamagalhaes.com.br/varejofacil/SysPDVWebClient/InstaladorSysPDVWebClient.zip\n38AE1E.13091B.4A0552.150A1E.A508A2.931530.C1596D",
+        "CNPJ": "",
+        "build": "25778",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Cristiane",
+        "contato": "",
+        "description": "Caixa sem carga",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "SERGIO",
+        "contato": "",
+        "description": "641823\n8E06A5.096047.D23521.53A015.8E33D9.93060E.268965",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LENINHA",
+        "contato": "",
+        "description": "16347\n320963\n1546644381\ngu6aabns\n\n3852EE.9302D6.A649E7.1D5A5C.95B812.93F509.61596D",
+        "CNPJ": "",
+        "build": "20959",
+        "assunto": ""
+    },
+    {
+        "cliente": "Leninha",
+        "contato": "",
+        "description": "642099\n264477765\nfryhq5h5",
+        "CNPJ": "07075138006300",
+        "build": "23780",
+        "assunto": ""
+    },
+    {
+        "cliente": "DEBORA",
+        "contato": "",
+        "description": "443471\n541109\n\n20D282.681267.096AE5.29C7AA.DD7125.3C1E5B.8390ED",
+        "CNPJ": "",
+        "build": "23446",
+        "assunto": ""
+    },
+    {
+        "cliente": "MARIA",
+        "contato": "",
+        "description": "442825\n055740\n",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "643271\n841955\n\nservidor formatado\n58A011.AD923B.D3BA85.5E089E.2A3233.6E4585.CD9E50",
+        "CNPJ": "18843005000141",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "FABIO",
+        "contato": "",
+        "description": "641747",
+        "CNPJ": "01101152000143",
+        "build": "24393",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ALMIR",
+        "contato": "",
+        "description": "1408551922\n5989\n50EB1E.0D13AE.013951.5508FD.3A2203.CC350C.3796B1",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ANTONIO",
+        "contato": "",
+        "description": "25s555m6\n540B19.DDA22E.AEB092.5F08D1.9A2253.6A150B.419651",
+        "CNPJ": "",
+        "build": "8024",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LAERCIO",
+        "contato": "",
+        "description": "639874\n319892\n918524.F188E2.D7F166.2AFA3E.1534AC.302138.A92958\n",
+        "CNPJ": "23644229000164",
+        "build": "24006",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Isabel",
+        "contato": "",
+        "description": "23220206267630000537550010003671511100014414\n89568185",
+        "CNPJ": "01437054000181",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Valdiane",
+        "contato": "83999558038",
+        "description": "Cadastro cliente - CODIGO BAIRRO - OK\nInstalação novo certificado - OK\nFinalizadora valores errados - RETORNAR\nVer tickets\nSped fiscal\n\n8333369523\n\n",
+        "CNPJ": "",
+        "build": "25723",
+        "assunto": "SysPDV - Erro nota fiscal"
+    },
+    {
+        "cliente": "Carlos",
+        "contato": "",
+        "description": "g9pm93\n266866\n266867",
+        "CNPJ": "11959296000199",
+        "build": "24196",
+        "assunto": "SysPDV - Duplicidade contas a receber"
+    },
+    {
+        "cliente": "thjiago",
+        "contato": "",
+        "description": "02C5BD.838615.2EC926.533C00.62E5AC.A1822D.3E9D6A",
+        "CNPJ": "08573307000193",
+        "build": "23482",
+        "assunto": "SysPDV - Geração de Chave para gerar arquivo fiscal"
+    },
+    {
+        "cliente": "Valdiane",
+        "contato": "",
+        "description": "te lascou\nELIVELTON\n755001\n\nOCORRÊNCIA RELATADA:\nDivergência relatórios de finalizadora.\n \nPROCEDIMENTO EXECUTADO:\nFoi realizado o reparo do banco pelo CMD, e como o banco do cliente é maior que 5GB e usa o firebird, Orientei o cliente a mudar para o SQL Server.\n \nRESULTADO:\nReparo do banco realizado com sucesso.",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "kkk é bucho"
+    },
+    {
+        "cliente": "VICTOR",
+        "contato": "",
+        "description": "mfyawje1",
+        "CNPJ": "32830892000144",
+        "build": "24166",
+        "assunto": "SysPDV - Erro na entrada de notas"
+    },
+    {
+        "cliente": "Carol",
+        "contato": "88998460392",
+        "description": "804929849\n7yh63h\n\n",
+        "CNPJ": "30527595000107",
+        "build": "25702",
+        "assunto": "SysPDV - Erro ao abrir o servidor"
+    },
+    {
+        "cliente": "Jailson",
+        "contato": "",
+        "description": "troca do adaptador de rede do servidor\n641581\nc 896695\nJailson\n698E31.B541A2.25D630.306CA8.9B8C32.592E5B.A5A5B4",
+        "CNPJ": "",
+        "build": "23096",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ramon",
+        "contato": "",
+        "description": "35643\n\n979747\n164148.D922E1.C99059.08383B.6038E7.05CF53.AB534D",
+        "CNPJ": "",
+        "build": "24196",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "DELMIRA",
+        "contato": "",
+        "description": "226843944\n",
+        "CNPJ": "",
+        "build": "25257",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Anselmo",
+        "contato": "",
+        "description": "1704401232\n450\nTP-450",
+        "CNPJ": "",
+        "build": "23336",
+        "assunto": "SysPDV - Não consigo fazer impressão de cupons"
+    },
+    {
+        "cliente": "rafaela",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "24407",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "MAYRA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "11237456000196",
+        "build": "24107",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "MARIANA",
+        "contato": "",
+        "description": "36250\n5460A1.EA57AF.F4B18C.3E08DE.0BF253.57554B.F2C6D0\n\naef9rvfw",
+        "CNPJ": "",
+        "build": "10432",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luis Antonio",
+        "contato": "",
+        "description": "12868\n12868\n6DAE31.F5AE62.66D0A0.3F2C58.9A3C52.59271B.AAC1FF",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fatima",
+        "contato": "",
+        "description": "12492615000676",
+        "CNPJ": "12492615000676",
+        "build": "25778",
+        "assunto": "SysPDV - Pré-venda sem código externo."
+    },
+    {
+        "cliente": "Adriana",
+        "contato": "",
+        "description": "OLIVER.ADRIANA04GMA\noliver.adriana04@gmail.com",
+        "CNPJ": "",
+        "build": "24707",
+        "assunto": "SysPDV - Gaveta e TEF"
+    },
+    {
+        "cliente": "BEATRIZ",
+        "contato": "",
+        "description": "",
+        "CNPJ": "21687568000100",
+        "build": "",
+        "assunto": "SysPDV"
+    },
+    {
+        "cliente": "Fernando",
+        "contato": "",
+        "description": "Registro IIV - \n\n1681\ninventario é o 116\n",
+        "CNPJ": "12360731000208",
+        "build": "",
+        "assunto": "SysPDV - FORTES AC"
+    },
+    {
+        "cliente": "Luis PCI",
+        "contato": "",
+        "description": "TROCA 5684 - PEDIDO DE VENDA 0000259519\n\n5688\n\ncliente 2973",
+        "CNPJ": "",
+        "build": "24160",
+        "assunto": ""
+    },
+    {
+        "cliente": "jean",
+        "contato": "",
+        "description": "642601\n951209\n800EBD.2961BA.E24309.34A3A5.8F33BC.B01731.258AE5",
+        "CNPJ": "",
+        "build": "24676",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Antonio",
+        "contato": "",
+        "description": "\n618EA1.0D8A63.A2D340.3F2CA8.91CD02.5929D3.F50B24",
+        "CNPJ": "63304893000189",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Antonio",
+        "contato": "",
+        "description": "988233.E1CAA3.D646AF.F0C00D.B5B12A.302723.DCC558",
+        "CNPJ": "",
+        "build": "24006",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ribamar",
+        "contato": "",
+        "description": "1363\n345779\n0B2535.BB8652.2EC921.F36A00.03E1C4.D1C201.EF9D6A",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fabio",
+        "contato": "",
+        "description": "640920\n927809\n8E033E.8169D9.C285ED.A6ABF5.83331D.8FB405.2D8255",
+        "CNPJ": "13453118001008",
+        "build": "24019",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "MAGNO",
+        "contato": "",
+        "description": "5893\n442894\n6468\n\n38163E.4C0271.761084.F913DC.51CC82.336A29.815DEB",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "EVERSON",
+        "contato": "",
+        "description": "17AFC2.E472E1.E0291C.05A892.348833.35DC13.ECD9FF",
+        "CNPJ": "",
+        "build": "25529",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "RENATA",
+        "contato": "",
+        "description": "4355A2.9AB646.6D86A3.31A0E4.D386A4.7D75FC.E32358\n",
+        "CNPJ": "19326332000270",
+        "build": "24707",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Willian",
+        "contato": "",
+        "description": "643085\n900430\n\nm9e7ffad",
+        "CNPJ": "",
+        "build": "25827",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "EDMUNDO ",
+        "contato": "",
+        "description": "375008",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "thamara",
+        "contato": "",
+        "description": "635756\n887896\nv2bw296v\n388AAF.2F02BE.A623ED.F38391.05C892.137A31.295DD1",
+        "CNPJ": "",
+        "build": "24593",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Airton",
+        "contato": "",
+        "description": "442960\n634952 c \n5CCAF1.8B612E.A6D90E.AE083C.A3C223.E28541.E4D699",
+        "CNPJ": "37534350000148",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "CELIA",
+        "contato": "",
+        "description": "639912\n813168\nmanutenção na maquina\n723E3E.619296.32D043.259F6F.2A83D5.0CD1A4.1FD1D8",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "VLADIA",
+        "contato": "",
+        "description": "troca da placa mae\n643287\n567685\n1EAE26.B3A2F9.1107D1.0EA881.BF0897.35D3D3.F35A21",
+        "CNPJ": "",
+        "build": "25105",
+        "assunto": ""
+    },
+    {
+        "cliente": "Shirlei",
+        "contato": "",
+        "description": "638803\n795909",
+        "CNPJ": "",
+        "build": "20532",
+        "assunto": ""
+    },
+    {
+        "cliente": "Samia",
+        "contato": "",
+        "description": "36039\n715761\ntroca de peças no computador\n]\n7C040E.60052D.962163.7DD03F.2A84D5.0EB738.1BDB48\n",
+        "CNPJ": "",
+        "build": "17297",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "TARCIANA",
+        "contato": "",
+        "description": "10315\n154041\n2D6D02.183F45.1C6ACF.09C5C7.DB85E2.181859.43F0EA",
+        "CNPJ": "",
+        "build": "24082",
+        "assunto": ""
+    },
+    {
+        "cliente": "CLEITON",
+        "contato": "",
+        "description": "636758\n967139\ntroca de servidor\n430D2A.E1B682.B8B17C.00703C.F38590.E1E5FB.AF2E58",
+        "CNPJ": "43114516000170",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Celso",
+        "contato": "",
+        "description": "1718\n540047\nt59jzhpw",
+        "CNPJ": "",
+        "build": "24779",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "zrybqp81",
+        "CNPJ": "",
+        "build": "24152",
+        "assunto": ""
+    },
+    {
+        "cliente": "JUCILENE",
+        "contato": "",
+        "description": "35635\n760862\n\nFicou de retornar",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "João",
+        "contato": "",
+        "description": "443530\n999392\n443882\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Andreza",
+        "contato": "",
+        "description": "6746\n645820\n164EF4.D422E1.C99099.042898.ED685E.05FE43.3C5029",
+        "CNPJ": "",
+        "build": "25778",
+        "assunto": ""
+    },
+    {
+        "cliente": "SHERLES",
+        "contato": "",
+        "description": "E5HJPDND\n3872AE.3A02D6.A618E5.3A8C9C.91AC82.B32229.215F62",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones Oliveira",
+        "contato": "",
+        "description": "443530\n38A71E.D80B16.DE19D5.38789E.490C82.D3F220.815F36",
+        "CNPJ": "",
+        "build": "24938",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "PATRICIA",
+        "contato": "",
+        "description": "PATRICIA\n1735\n287860\nBASE DE DADOS APENAS PARA CONSULTA APÓS MIGRAR PRA O VAREJO\n04259A.E88495.105A79.338200.BC35DD.FD8207.4E6A9F",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": ""
+    },
+    {
+        "cliente": "MAIARA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "26837589000170",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Diego",
+        "contato": "",
+        "description": "643672\n350677\n\n437522.84B242.9A41A9.F98039.F38DA2.C185FC.D92E58\n\ndqnu26cj",
+        "CNPJ": "",
+        "build": "17068",
+        "assunto": ""
+    },
+    {
+        "cliente": "SILVIO",
+        "contato": "",
+        "description": "639801\n62832D.5B9CF9.E8D6C0.3415A8.207F35.5A25AB.3DA31D",
+        "CNPJ": "28778244000208",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "VALDIMAR",
+        "contato": "",
+        "description": "",
+        "CNPJ": "10431453000126",
+        "build": "18038",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "PETERSON\t",
+        "contato": "",
+        "description": "01.910.260/0001-67\n20391\n16AE26.D722E1.C9939B.0488DD.411810.063CF3.045129\n\nTW\n\n\n01.910.260/0002-48\n20376\n750B4E.BB9996.AE2763.25D120.288DF6.0C7D1B.1C30D8\n\nmangue-ce@hotmail.com",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jean",
+        "contato": "",
+        "description": "38EAAE.D10AA4.D6648D.0BE41C.15E812.B36809.9163FD\n",
+        "CNPJ": "",
+        "build": "25132",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rodrigo",
+        "contato": "",
+        "description": "Serie: 269\nControle: 676982\n\nID: 785442523\nSenha: 91duj846\n\n4053FC.0F7429.119878.915055.438F02.DE0637.F82540",
+        "CNPJ": "35631376000340",
+        "build": "0",
+        "assunto": "SysPDV Web - Geração de Chave"
+    },
+    {
+        "cliente": "Felipe",
+        "contato": "",
+        "description": "85999227604 pedro\nmercadodaracao@gmail.com\n58EA5D.A48222.1C1667.F30895.BE7233.2BF685.4346EB",
+        "CNPJ": "03069496000148",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JHONATAM",
+        "contato": "",
+        "description": "JHONATAM\nCNPJ: 41.549.064/0001-23\nSerie: 15659\nControle: 649595\n\n144E32.70923D.59F863.0BF864.20E899.064D73.4D5183\npdvcm\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Wesley PCI",
+        "contato": "",
+        "description": "34455\n164619\n\n277A32.385226.2AA992.0072E8.6A459F.18D669.234038",
+        "CNPJ": "20771349000134",
+        "build": "25853",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "TAYAMIM",
+        "contato": "",
+        "description": "443475\n774700\n4275F6.3A6E33.A90934.C9A056.43898C.C1566A.C62E1C",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Diego",
+        "contato": "",
+        "description": "36434\n371760\n40BEFA.121408.F0E3E9.90405E.438A30.7D569E.7F2358",
+        "CNPJ": "49772825000385",
+        "build": "25690",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "WALMOM",
+        "contato": "",
+        "description": "643211\n697378\n\n780952244\n\n\n618F69.E93892.615170.362178.CB063D.612416.A5A813",
+        "CNPJ": "",
+        "build": "24938",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "mayara",
+        "contato": "",
+        "description": "354\n598905\n177826.90F10A.4DD411.0B620B.C68875.066993.A660F7",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "geovani",
+        "contato": "",
+        "description": "643481\n7F3F63.8105A6.A2C6C3.A5263A.268896.075BA7.D56188",
+        "CNPJ": "20898276000570",
+        "build": "25509",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Robson",
+        "contato": "",
+        "description": "443352\n135674\n38D2EE.1302D6.A626E5.A3761C.916C82.339629.7166B5\n2db5ytnr",
+        "CNPJ": "27521054000159",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "EDVAN",
+        "contato": "",
+        "description": "36719\n988578\n9B8FE9.760EE2.A9B369.21F304.955316.302184.6CA168",
+        "CNPJ": "",
+        "build": "25338",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "VANESCA",
+        "contato": "",
+        "description": "19183\n530776\n\n9A8E61.81481A.66D06A.698109.A5BBC6.3029FF.6FE468",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "patricia",
+        "contato": "",
+        "description": "33802\n027807\n850965.4169D2.628091.6234A5.8E30B6.1621FC.298AE6",
+        "CNPJ": "",
+        "build": "17251",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "641821\n132207\n8D0D65.81615A.7A6119.68A0A5.8F33B6.D626F1.298446",
+        "CNPJ": "",
+        "build": "25065",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Neto",
+        "contato": "",
+        "description": "24.415.550/0001-30 - Neto - Quer uma chave.\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "ALFRIZA",
+        "contato": "",
+        "description": "28.552.355/0001-02 - ALFRIZA - Quer chave.",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Alfra",
+        "contato": "",
+        "description": "893398230\n0D463D.158681.2EC927.A31600.C6E13D.61C204.B89D6A",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jean",
+        "contato": "",
+        "description": "",
+        "CNPJ": "21020479000106",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Elisangela",
+        "contato": "",
+        "description": "640611\n381819",
+        "CNPJ": "",
+        "build": "25723",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "lucas",
+        "contato": "",
+        "description": "640211\t\n\n22.803.331/0001-00 - LUCAS",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Larissa",
+        "contato": "",
+        "description": "406362.9B9670.AED623.0950A1.638108.C11636.392E1C",
+        "CNPJ": "",
+        "build": "24698",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "15442\n716087\n52DCAD.1B562E.201267.630815.866203.96B666.8A6669",
+        "CNPJ": "",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "30241\n671910\nTroca do HD",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": ""
+    },
+    {
+        "cliente": "Barbara",
+        "contato": "",
+        "description": "641218\n275898\n733DFE.D9909E.17A563.25148E.2D8516.0C82A2.147B38",
+        "CNPJ": "02889730000110",
+        "build": "24676",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "troca de versão\n\n22937\n\n756527\n40D8D2.817E63.C86EB9.5920E1.738529.C1167F.4A2E58",
+        "CNPJ": "",
+        "build": "25853",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jamile",
+        "contato": "",
+        "description": "640113\n559610\n9F8FF9.D90EE2.A2B06E.41EA31.B5321D.302191.70AB68",
+        "CNPJ": "17904383000125",
+        "build": "21504",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Beatriz",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Cristiane",
+        "contato": "",
+        "description": "443902\n558976\n9ECEF1.2B81A3.1446EE.193822.816CCD.302A0B.765768\n115A3E.4512E1.CA859A.0EDC66.83B863.267033.E91872",
+        "CNPJ": "",
+        "build": "24938",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao Cabral",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "ANDERSON",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "18258",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Edinei",
+        "contato": "",
+        "description": "DANILO\nfinanceiro@shopdamaquiagem.top\nTroca do hd do servidor\n633538\n010510\n38AB0E.840270.06046A.E05F19.652892.934D3F.976712",
+        "CNPJ": "04925371000135",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "monica",
+        "contato": "",
+        "description": "635195\n576668\n\n1D9B5A.3622E1.C99492.08D8C9.5B9827.367673.EED9A1",
+        "CNPJ": "06134334000134",
+        "build": "25476",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ramon",
+        "contato": "",
+        "description": "23293\n075586\n1046197511\nv1bpt8pw\n8B0DF1.FD69D2.628091.D0D2EB.4E3527.33C1AC.218AE6",
+        "CNPJ": "",
+        "build": "9336",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Patrícia",
+        "contato": "",
+        "description": "1735\n753908\n4077D1.079463.F0A972.BAE0E0.738A00.5D26BB.C62358",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Carlos",
+        "contato": "",
+        "description": "16185\n356070\n4060DC.71A284.796209.2120E5.738612.87760F.450658",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Julio Vidal",
+        "contato": "",
+        "description": "16184\n886250\n127902.39B096.123969.04D872.A42813.067A13.EF5139\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Claudia",
+        "contato": "",
+        "description": "21357\n996685",
+        "CNPJ": "",
+        "build": "21431",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Sergio",
+        "contato": "",
+        "description": "10240\n818907",
+        "CNPJ": "23495500000147",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "30558\n309598\n6D4ED1.B1C3DB.0607E0.330CE8.12075A.692F1F.EBDBBD\n65d2ej",
+        "CNPJ": "",
+        "build": "12300",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Miriane",
+        "contato": "",
+        "description": "443199\n1763\n16AE26.D822E1.C990DB.08DC5C.E158C4.267023.EF1873",
+        "CNPJ": "",
+        "build": "24593",
+        "assunto": ""
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "443454\n589686",
+        "CNPJ": "",
+        "build": "23446",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Helio",
+        "contato": "",
+        "description": "443205\n5C7331.83A5A7.1E3969.5E083C.070223.A2E651.1496D9\n",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "30555\n253968\n3866B3.B30D72.0447CC.38B7A5.459822.133509.4D6989",
+        "CNPJ": "",
+        "build": "24006",
+        "assunto": ""
+    },
+    {
+        "cliente": "Rose",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Cleiton",
+        "contato": "",
+        "description": "Troca de servidor\n636758\n301729\n11B876.B7A2E1.E0F8D3.0B58ED.61F870.369A53.33D9D0",
+        "CNPJ": "",
+        "build": "25599",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Nilton",
+        "contato": "",
+        "description": "21924\n838959\ndsfxtxgz\n16AE26.D622E1.C99251.0058F9.33C840.069F83.375188",
+        "CNPJ": "",
+        "build": "24833",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Bruno",
+        "contato": "",
+        "description": "272\n583658\nsm48g5hr\n2EC602.782748.5F3470.0FF3FA.760C85.00866C.939054",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Erica",
+        "contato": "",
+        "description": "22316\n685925",
+        "CNPJ": "",
+        "build": "24508",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Barbara",
+        "contato": "",
+        "description": "443237\n535093\n16AE26.D422E1.C995D3.0F5C53.E038B5.2691A3.3718BD",
+        "CNPJ": "",
+        "build": "22793",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Virginia",
+        "contato": "",
+        "description": "672\n18ECA6.46A2E3.3E0813.095C13.80F8D1.0690A3.37107B",
+        "CNPJ": "03616846000149",
+        "build": "25599",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "EMANUELLA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Maicon",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "CARLA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Elena",
+        "contato": "",
+        "description": "06869A.4D8645.6459A2.139B00.F035EF.DD820E.E92A8C\n\nOUTRO 1E17A6.3122E1.C99399.0EB80D.BE48E5.36D1E3.105A14",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": ""
+    },
+    {
+        "cliente": "Deise",
+        "contato": "",
+        "description": "",
+        "CNPJ": "34988972000158",
+        "build": "20722",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Alexandro",
+        "contato": "",
+        "description": "COMPROVANTE DE PAGAMENTO",
+        "CNPJ": "21101469000197",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Wanderson",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "SERGIO",
+        "contato": "",
+        "description": "",
+        "CNPJ": "03175641000175",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "LUCIANA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Sauilo",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "mateus",
+        "contato": "",
+        "description": "34103\n638596\nTrocou o a maquina do servidor\n978E01.B996A3.23D6A1.E9530E.051DCB.3029B5.DC4768\n",
+        "CNPJ": "",
+        "build": "17203",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Adriana",
+        "contato": "",
+        "description": "640169\n745888",
+        "CNPJ": "",
+        "build": "21482",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "jadson",
+        "contato": "",
+        "description": "639940\n796077\n436BB2.BE5415.4E0229.19D015.D38DAB.C13620.EE2E58\n",
+        "CNPJ": "",
+        "build": "24327",
+        "assunto": ""
+    },
+    {
+        "cliente": "Edna",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ricardo",
+        "contato": "",
+        "description": "859085\n28242 - No cadastro\n25388 mostrando na tela\n\n7A0393.E4972F.B235E3.6DE450.2B8926.058E22.D2D808",
+        "CNPJ": "26959067000141",
+        "build": "23311",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Bia",
+        "contato": "",
+        "description": "33736\n370066\nwt164in1\n58C911.3DF3A7.1E3982.BE089C.20E203.E2A615.33D619",
+        "CNPJ": "25256670000102",
+        "build": "24520",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Lima",
+        "contato": "",
+        "description": "35040",
+        "CNPJ": "",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "636602\n899547\n585101.92D257.2F3D1C.BE088C.7DF233.FDE6ED.CBD459",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Andreia",
+        "contato": "",
+        "description": "640860\n975105\n\nmundança de local do servidor\n\n588D17.ADA053.93C387.BE0899.A0E233.E82645.D8D4DB",
+        "CNPJ": "09362827000110",
+        "build": "22141",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "2672\n685889\n2B8212.881268.396AE1.19CB1B.D77FAB.FF196A.03D1ED",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vanesca",
+        "contato": "",
+        "description": "19183\n789614\n\n58F551.1147A1.E8D48A.2E08AC.F54203.D666B5.12F619",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Fran (PENDENTE)",
+        "contato": "",
+        "description": "634259\n38FDC3.DD0345.5A64EB.50B9A5.95C892.13B239.FD6F64",
+        "CNPJ": "38927717000156",
+        "build": "25874",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Patricia",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "24241",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Meire",
+        "contato": "",
+        "description": "635852\n169921\n",
+        "CNPJ": "",
+        "build": "25369",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fabio",
+        "contato": "",
+        "description": "638451\n135742\n\n2D69A2.285443.92A4F1.3F9A96.264B12.DC0761.63F04C",
+        "CNPJ": "",
+        "build": "19521",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Reginilda",
+        "contato": "",
+        "description": "36575",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "sandra",
+        "contato": "",
+        "description": "719675",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "bruno",
+        "contato": "",
+        "description": "27609\n568785",
+        "CNPJ": "",
+        "build": "24275",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ricardo",
+        "contato": "",
+        "description": "443872\n640510\n5C0451.8E1032.36D96F.2E083C.09A223.724661.E6FE19",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ismael",
+        "contato": "",
+        "description": "641319\n559406\n583D59.A4762E.AEB069.2F0811.59D233.6A0655.32F611",
+        "CNPJ": "",
+        "build": "22769",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "FRANCISCO ",
+        "contato": "",
+        "description": "2879\n756587\n\n881E95.F26962.FA02A1.281D5F.FE31EF.BAE14C.278446",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "1404\n358584\n\n888238412\n6nkp8nsv\n541554.B4E811.4FA631.28085B.59C253.69061B.E0F09E",
+        "CNPJ": "",
+        "build": "5951",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "WALLACE",
+        "contato": "",
+        "description": "6723\n978405\n\n295009238\nsh3bvx\n\n0B979E.AB8659.6E59AD.A32900.D135B8.0D8209.DD50B1",
+        "CNPJ": "",
+        "build": "24707",
+        "assunto": ""
+    },
+    {
+        "cliente": "celia",
+        "contato": "",
+        "description": "30955\n755688\n\n26.930.916/0001-34 _ CELIA\n958E11.C996E2.28D36A.B9720D.85DBC9.302920.0BAC78",
+        "CNPJ": "",
+        "build": "18258",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "1645\n580197\n11.10.19\n986769788\n4506\n7D091E.9B9251.782963.61D83A.29C2F7.0C6507.1E0578",
+        "CNPJ": "",
+        "build": "25744",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vlaquer",
+        "contato": "",
+        "description": "8598\n663880\n5881A5.0B062C.1EC319.96089D.91B003.D717C5.D406EE\n\nOCORRÊNCIA RELATADA:\nPreciso de uma chave.\n\nPROCEDIMENTO EXECUTADO:\nFoi gerado uma chave para o cliente como solicitado.\n\n RESULTADO:\nChave gerada com sucesso.\n5881A5.0B062C.1EC319.96089D.91B003.D717C5.D406EE",
+        "CNPJ": "86750569000190",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jocilene",
+        "contato": "",
+        "description": "443477\n754779\n\n6BCE91.3F1E62.69D7A0.382CB8.952022.792351.A1856D",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "633415\n866386\n8208E1.3240E7.551321.9F9D95.8E3380.A3192E.248B17",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fran",
+        "contato": "",
+        "description": "3033\n761D18.1470EE.E0B6A3.479FFA.29F257.1A9C11.4D0EC8",
+        "CNPJ": "50016210387",
+        "build": "8289",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Onofre",
+        "contato": "",
+        "description": "443093\n309952\n7E221E.DB052D.962463.7198BA.29C4F7.0E258D.1F0848",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "adriana",
+        "contato": "",
+        "description": "637779\n570956",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "NELDIR",
+        "contato": "",
+        "description": "15.571.140/0001-97 - NELDIR",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Daiana",
+        "contato": "",
+        "description": "19833\n603187",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "rodrigo",
+        "contato": "",
+        "description": "685\n272678\n\n71501E.5A923E.3CF743.A519CA.29E0D7.0CABB4.120F68",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Everton",
+        "contato": "",
+        "description": "443515\n836108\n28D282.78A582.896365.29CC1B.9A5129.1C167B.F300ED\n\n492470666\nw1gf18",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Isabel",
+        "contato": "",
+        "description": "",
+        "CNPJ": "18910400000108",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "643273",
+        "CNPJ": "",
+        "build": "25037",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Bacelar",
+        "contato": "",
+        "description": "636901\n787564\n04E799.9B8610.AE112E.A34903.51F5BB.098295.D40BEA",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Edison",
+        "contato": "",
+        "description": "638779\n097665\n09179E.B38282.E3709A.938903.013DD9.0D82A8.CEAE62",
+        "CNPJ": "",
+        "build": "24246",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luis Eduardo",
+        "contato": "",
+        "description": "21345\n830896\n\n117826.7362E1.C95099.0D98FB.AB483D.0702D3.A151CE\nw4cgvpmg",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Reginilda",
+        "contato": "",
+        "description": "36575\n290999",
+        "CNPJ": "13037539000167",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Isabel",
+        "contato": "",
+        "description": "v3tmz22q",
+        "CNPJ": "",
+        "build": "25493",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "636602\n737756\n381D5E.A8053F.24437E.A7E09C.D5D892.C3E939.C170AA",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "EVERTON",
+        "contato": "",
+        "description": "642611\n171279",
+        "CNPJ": "42428030000143",
+        "build": "24281",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "SERGIO",
+        "contato": "",
+        "description": "33560\n656965",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Linda",
+        "contato": "",
+        "description": "634731",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jessica",
+        "contato": "",
+        "description": "31503\n599502",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Ronieal",
+        "contato": "",
+        "description": "591",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fernando",
+        "contato": "",
+        "description": "",
+        "CNPJ": "12360731000127",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Romulo",
+        "contato": "",
+        "description": "",
+        "CNPJ": "28631589000145",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Francisco",
+        "contato": "",
+        "description": "911891\n583CE9.AD582E.AEB097.0F08D1.B5E233.8AC735.692651",
+        "CNPJ": "13335372000110",
+        "build": "22207",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "ERICH",
+        "contato": "",
+        "description": "642836\n964381\n\n04773E.5B8048.EA7048.E3D003.83359D.2D82A7.2A6BA0",
+        "CNPJ": "",
+        "build": "25864",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "samuel",
+        "contato": "",
+        "description": "27107\n612487\nTroca de maquina.\n\n2BE2D2.B8E200.2BFF36.59CA48.51CB30.141474.5320E9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Aercio",
+        "contato": "",
+        "description": "642112\n2CE2A2.78E267.196AE6.39CA4A.18C6A0.421870.5320ED",
+        "CNPJ": "",
+        "build": "25660",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Arnaldo",
+        "contato": "",
+        "description": "581FED.1182B3.CF455F.030847.097203.22B7B5.D02221",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Clarisssa",
+        "contato": "",
+        "description": "",
+        "CNPJ": "07672835000137",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcelo",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Diego PCI",
+        "contato": "",
+        "description": "Troca da maquina\n634853\n526020\n12C7A2.7522E1.C9A099.0A88B9.D8A83A.373EC3.32593B",
+        "CNPJ": "",
+        "build": "25955",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Robson",
+        "contato": "",
+        "description": "26212\n376898\n\n0B67C1.788227.A3E083.33A800.91E55B.31822F.9BE809",
+        "CNPJ": "",
+        "build": "24663",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Rosana",
+        "contato": "",
+        "description": "29684\nFICOU De retornar",
+        "CNPJ": "",
+        "build": "23944",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "636602\n899547\n585131.98D957.2F3D2C.8E08CC.715233.9DE7E5.CB3459",
+        "CNPJ": "32637785000285",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Joao GENECAMP",
+        "contato": "",
+        "description": "18614\n28A010.283907.70CBFB.02102B.2E9538.B86679.C3309F",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Raniere",
+        "contato": "",
+        "description": "14387\n8\n",
+        "CNPJ": "",
+        "build": "24166",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcio PCI",
+        "contato": "",
+        "description": "16838\n890016\n585421.11E421.3AD97C.8E08EC.9A4203.72D785.6A3299",
+        "CNPJ": "",
+        "build": "19076",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Diego",
+        "contato": "",
+        "description": "640825\n\n079756\n\n8A0E29.D929D2.A26991.89A935.8E3393.C8548C.2C8317",
+        "CNPJ": "",
+        "build": "24292",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Railson",
+        "contato": "",
+        "description": "26848\n871901\n\n0D771D.4B8824.24C982.239800.6CED10.318227.389D85\n921334211",
+        "CNPJ": "",
+        "build": "25955",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "daniela",
+        "contato": "",
+        "description": "0084991439899\n- \n39490043000138\n\nCNPJ REVENDA 38711292000143\n",
+        "CNPJ": "",
+        "build": "25960",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Junior",
+        "contato": "",
+        "description": "2014\n289749\n\n1D9626.4472E1.E027DB.0F8C33.35387E.0730E3.321035",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Carol",
+        "contato": "",
+        "description": "20268\n359545\n544A31.C9552E.A6D904.8E08DC.C27253.C277CB.1636D9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Samy",
+        "contato": "",
+        "description": "639451\n985606\n71382E.B9052D.962863.7518A3.2882C7.0EF9A9.143248",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LUARA",
+        "contato": "",
+        "description": "4320",
+        "CNPJ": "",
+        "build": "17750",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Daniele",
+        "contato": "",
+        "description": "635826\n48",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "FRANCISCO",
+        "contato": "",
+        "description": "12777\n774568\n628E81.F32824.84A030.308CC8.666306.79249F.2512AC",
+        "CNPJ": "",
+        "build": "23749",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Marcio",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Paulo",
+        "contato": "",
+        "description": "26282\n560447",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Geovani",
+        "contato": "",
+        "description": "634711\n228797\n21.922.850/0016-01\n03B71E.EE8C21.6759CB.035E03.5C3544.7D829F.28340E\n",
+        "CNPJ": "",
+        "build": "25176",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "1209\n550825\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ruan",
+        "contato": "",
+        "description": "7803C6.41E9F8.8230A3.A524A0.0E8C27.0D8E07.5F7C68",
+        "CNPJ": "",
+        "build": "24140",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Denilson",
+        "contato": "",
+        "description": "3156\n003159\n96CEC1.2396E2.23D260.150004.8148CE.3029AC.70A978",
+        "CNPJ": "29903753000199",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Marcelo",
+        "contato": "",
+        "description": "443285\n650884",
+        "CNPJ": "",
+        "build": "22612",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Abner",
+        "contato": "",
+        "description": "17066\n715508\n7257CE.B5072D.962963.7A93D0.2EA827.0EBEC1.1B7148",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "DAVID",
+        "contato": "",
+        "description": "443914\n",
+        "CNPJ": "",
+        "build": "25685",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Gessika",
+        "contato": "",
+        "description": "443847\n935173\n710074428\ni8esgdn4\n\n16AE26.D722E1.C99493.09EC58.31788A.277F43.0C1814",
+        "CNPJ": "",
+        "build": "25176",
+        "assunto": ""
+    },
+    {
+        "cliente": "leonardo",
+        "contato": "",
+        "description": "442446\n800063\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "ASSISTÊNCIA TÉCNICA - 31203"
+    },
+    {
+        "cliente": "Davi",
+        "contato": "",
+        "description": "642944\n196778\n41ypidpe\n978FC9.91F962.842560.41DA32.557E1E.3022B0.7CD378",
+        "CNPJ": "",
+        "build": "25296",
+        "assunto": ""
+    },
+    {
+        "cliente": "Paulo",
+        "contato": "",
+        "description": "643250",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Ernanda",
+        "contato": "",
+        "description": "31577\n584532",
+        "CNPJ": "70062708000233",
+        "build": "24160",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Raquel",
+        "contato": "",
+        "description": "64\n692457\n50C20E.0E59A1.AB3F09.E5087D.2C3203.80F70C.6276B5\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV Web - Geração de Chave "
+    },
+    {
+        "cliente": "MIsael",
+        "contato": "",
+        "description": "14990\n043069\n730F64.5620B4.1FA643.CDEF60.2E85D7.04F01E.3178D8",
+        "CNPJ": "",
+        "build": "24099",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Abmael",
+        "contato": "",
+        "description": "443749\n189711\n9FCEC1.03AF4A.256360.151824.1158CE.3029D2.794578\nvsd94dit\n\nOCORRÊNCIA RELATADA:\n\nPreciso de uma chave para meu sistema.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave para o cliente como solicitado\n\n \n\nRESULTADO:\n9FCEC1.03AF4A.256360.151824.1158CE.3029D2.794578",
+        "CNPJ": "",
+        "build": "24548",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Maria Elena",
+        "contato": "",
+        "description": "34834\n770174\n8503A1.6D66B4.2260B2.E23C0D.8E3047.D7D2B2.2684E7",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Luiz",
+        "contato": "",
+        "description": "31975 - \n674852 - \n7703DE.CB9996.32D543.2591A4.258E77.0CFE29.1B99D8 - Atualização da versão 16.2 para a 19.0",
+        "CNPJ": "07001180000175",
+        "build": "25960",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jessica",
+        "contato": "",
+        "description": "642801\n030675\n698F59.EAFEE2.66B9A0.329198.05593A.712754.55A77A",
+        "CNPJ": "43757035000182",
+        "build": "24707",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "JARINA",
+        "contato": "",
+        "description": "643381\nrrwf76b8\n22F8A2.585266.9F9D68.321543.9E55B5.689279.A390F2",
+        "CNPJ": "19689026000117",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luciana",
+        "contato": "",
+        "description": "2927\n746598\n607033546",
+        "CNPJ": "",
+        "build": "22084",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Everson",
+        "contato": "",
+        "description": "143164\n\n58254E.2494C7.62C757.53083E.A3B203.FEF775.6592E5\n\n931301075\n",
+        "CNPJ": "",
+        "build": "24439",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Chagas",
+        "contato": "",
+        "description": "",
+        "CNPJ": "05280998000149",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ovan",
+        "contato": "",
+        "description": "Serie 635936\nControle 600118\n\n7834BE.D7032D.962663.7D1544.258DB7.0EF497.1B9D48\n914400106\nmriuxppb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Roberta",
+        "contato": "",
+        "description": "Chingou e desligou",
+        "CNPJ": "12779585000179",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mirian",
+        "contato": "",
+        "description": "3200\n893986\n247037937\n8018\nzp5qibtt",
+        "CNPJ": "19022732000100",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Erich",
+        "contato": "",
+        "description": "443850\n927797\n6BCE51.3B9D64.0616E0.3F8ED8.4EF927.7027D4.5185F8\n",
+        "CNPJ": "",
+        "build": "25960",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Loerliton",
+        "contato": "",
+        "description": "18086\n729075",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Lorena",
+        "contato": "",
+        "description": "587939\n\n21DAA2.184268.30EAE1.311ED9.5AE525.98997B.7390FB",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "juliana",
+        "contato": "",
+        "description": "443921\n497955\nsite",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Felipe Pinheiro",
+        "contato": "",
+        "description": "636516\n534818\nMudança de servidor de computador\n43B752.BA5E43.C86EB9.59505F.93819A.C1E7F4.2A2E58",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "rebeca",
+        "contato": "",
+        "description": "8wujc23i\n386A33.020287.166567.585467.A508A2.932530.2D79A5",
+        "CNPJ": "",
+        "build": "25744",
+        "assunto": ""
+    },
+    {
+        "cliente": "Cleiton",
+        "contato": "",
+        "description": "633071\n094616\n039799.858628.17E2F5.53F503.24E522.918298.A871C3",
+        "CNPJ": "",
+        "build": "25960",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "João Jairo Costa",
+        "contato": "",
+        "description": "764\n858875\n1F44A6.6622E1.C9A95A.185FEE.2F4802.179CB3.54F0E3",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Eduardo",
+        "contato": "",
+        "description": "1396\n380550\n71184E.0A95AF.44A763.2F1F45.25FFB7.1CAE0B.129C68",
+        "CNPJ": "15361893000178",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mayra",
+        "contato": "",
+        "description": "643368\n896265\njp2k9njx\n\n38A2EE.D409D6.3A9108.449EDC.9578A2.837539.3179AF",
+        "CNPJ": "39655088000115",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Elias",
+        "contato": "",
+        "description": "24\n954959\n11.07",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Carol",
+        "contato": "",
+        "description": "443927\n960399\n917925918\n1885\n39.305.105/0001-94",
+        "CNPJ": "",
+        "build": "25948",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Sandra",
+        "contato": "",
+        "description": "24\n954959\n\nsandracaldas87@gmail.com\n85999257248\n\n62FEC1.336E62.61D1A1.3E9C08.95BA12.792F5D.9F0DB1",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Regina",
+        "contato": "85997039781",
+        "description": "640340\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Cristian",
+        "contato": "",
+        "description": "7\n475658\n0A077F.DC8679.1CD4A1.938C00.7D5C0A.AE0200.75F9F4\n5vuqfs2g",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ADRIANA",
+        "contato": "",
+        "description": "641032\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "Troca do HD\n643031\n688405\n2152A2.D89263.596AE7.39C3D0.D1C55C.D81D71.13A0ED",
+        "CNPJ": "39921779000113",
+        "build": "24739",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Kellen",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "VAREJO FÁCIL - 31213"
+    },
+    {
+        "cliente": "Marcos CHAT",
+        "contato": "",
+        "description": "12312\nreinstalamos o banco do zero\n3842FE.B209D6.3A8901.9F8A1C.9DC812.033C09.F17A21",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ana Claudia",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Raimundo nonato",
+        "contato": "",
+        "description": "Contador queria saber se o sistema emite NF de saida.",
+        "CNPJ": "15184974000140",
+        "build": "",
+        "assunto": "SysPDV - Contador queria saber se o sistema emite NF de saida.",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Mayra",
+        "contato": "",
+        "description": "Troca de hd\n\n1046531514\ncyjrazyc\n850146.76AFC9.899520.C92695.84303A.3D5E99.2C8507",
+        "CNPJ": "",
+        "build": "25997",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "maira",
+        "contato": "",
+        "description": "641850\n901988\nFORMATAÇÃO DA MAQUINA SERVIDOR\n213739102\na7jqzc\n9083DD.31E311.9349A9.1A4A31.A56C5C.302918.A71F78",
+        "CNPJ": "",
+        "build": "24327",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Viera",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "MILÊNIO - 31214"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "639455\n168650",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "17753",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fabio",
+        "contato": "",
+        "description": "05.112.190/0001-52  - Fabio",
+        "CNPJ": "05112190000152",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Carlos",
+        "contato": "",
+        "description": "Troca de peças no pc\n36235\n665833\n\n40B2CA.F1C605.168721.F0C090.A38E3E.7D472D.1A2358",
+        "CNPJ": "08896286000147",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Charles",
+        "contato": "",
+        "description": "placa queimou\n\n633958\n679388\n\n0DA799.A28663.D111A9.E3A303.C5F5F0.C98291.9FBC0E",
+        "CNPJ": "25147771000137",
+        "build": "16602",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "SIRIA",
+        "contato": "",
+        "description": "Mudança de maquina\n443858\n401909\n16AE26.D722E1.C999DD.083C50.6AB8F0.27CF83.E1980D\n830851101\n",
+        "CNPJ": "41100392000148",
+        "build": "25168",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "AMILTON",
+        "contato": "",
+        "description": "640166\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Isabela",
+        "contato": "",
+        "description": "38FD95.AF02F8.2601E7.EBD56A.85C8A2.93E331.747C92\n\nb78mr5nq",
+        "CNPJ": "",
+        "build": "25690",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Berenice",
+        "contato": "",
+        "description": "035005\n\n23kwb5\n\ndriqs5cd\n",
+        "CNPJ": "",
+        "build": "20378",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "italo",
+        "contato": "",
+        "description": "3239\n308087\n\n751A5E.EA989D.9D94E3.2F5C0E.23F2A7.1CBC15.1BC038",
+        "CNPJ": "65981685387",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Gabriel",
+        "contato": "",
+        "description": "643318\n8B0159.0961BA.E24209.34A3E5.8F332C.AFA871.298AE7\netw6eud1",
+        "CNPJ": "44101353000153",
+        "build": "25529",
+        "assunto": ""
+    },
+    {
+        "cliente": "ROBSON",
+        "contato": "",
+        "description": "690954\nProblema no computador troca da memoria\n\n58C2E9.A2E02E.AEB04C.3F0891.15F233.9A9765.A1C611",
+        "CNPJ": "40303635000182",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Tina",
+        "contato": "",
+        "description": "mudança de computador\n10730\n268207\n582BE1.02425F.68D40A.3E089C.B5F203.9637F5.28C059",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Taiana",
+        "contato": "",
+        "description": "640070\n590765",
+        "CNPJ": "04914871000171",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JENNYFER",
+        "contato": "",
+        "description": "1291\n608700\n\n5F9EE1.0C272E.A6D98F.3E18AC.85C213.A217FF.C9C699",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Aureila",
+        "contato": "",
+        "description": "5009\n369951",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Maria",
+        "contato": "",
+        "description": "13376\n2FD212.88E3A1.8964A3.09C45C.5D25A3.B81179.93C0ED\n",
+        "CNPJ": "",
+        "build": "19176",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Erika",
+        "contato": "",
+        "description": "443898\n092089\n63CEB1.C28812.657670.3B8C68.53FD26.7929DE.218609",
+        "CNPJ": "",
+        "build": "25865",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "leiones",
+        "contato": "",
+        "description": "29724\n507809\n766942910\nzcmcinv9\n9743ED.050C63.A901E2.DE2D50.3BA95B.302987.D1D278",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "MILANE",
+        "contato": "",
+        "description": "33980\n905668\n38BE7E.4E02DF.F68581.286E93.C5B832.13EB0D.C37D09",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ana",
+        "contato": "",
+        "description": "19032- \nONLINE",
+        "CNPJ": "15117329000104",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JOAO INACIO - CHAT",
+        "contato": "",
+        "description": " - \nFoi gerado a primeira chave do cliente como solicitado pela revenda.\n\nCHAVE: 8E02E6.31690A.CC130D.BDAC25.83339D.0E4825.208E97",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jailson",
+        "contato": "",
+        "description": "troca de maquina\n34267\n396426\n071712.B98C12.94714F.233B00.2E35E1.DD8231.06C855",
+        "CNPJ": "",
+        "build": "23749",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Claudia",
+        "contato": "",
+        "description": "33043\n997067",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Julio",
+        "contato": "",
+        "description": "colocamos hd em outra maquina\n\n1361\n554615\n1F2674.01D23D.59B56A.03B821.940814.07D173.2DD01A",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "EUDSON",
+        "contato": "",
+        "description": "Foi gerado uma chave para o cliente pois  revenda sinalizou que a versão estava incorreta no portal. Estava 19.1 ao invés da 19.0.\n\nChave gerada com sucesso.\n4388B2.305A14.C76EB1.F99025.D385AE.C187CE.EA2E58",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fabio",
+        "contato": "",
+        "description": "Solicitante: Fabio\nCNPJ: 04.786.249/0001-25\nSerie: 638102\nControle: 212198\nVersão: 19.10\nMotivo: Formatação do computador servidor.\n",
+        "CNPJ": "",
+        "build": "17999",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Vitor",
+        "contato": "CHAT",
+        "description": "Solicitante: Vitor\nCNPJ: 37.132.717/0001-05\nSerie: 643756\nControle: 598470\nVersão: 19.0\nMotivo:\nChave: 8E02E1.81A932.D92091.B0AD25.8E339D.EE781C.2089C7\n---\nID:\nSenha: ",
+        "CNPJ": "37132717000105",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "MARCOS",
+        "contato": "CHAT",
+        "description": "38960E.FE0AA2.3667E8.241EDC.6622A2.137B39.917D09",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Pedro",
+        "contato": "",
+        "description": "1B760A.71123D.5A5961.0CBC62.2E785A.27D133.2598D0\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Ana Carolina",
+        "contato": "",
+        "description": "1446\n957761\n413542872\nfu637u\n821CED.826962.FA51A1.B20C2F.FE313D.FBDFCC.228447",
+        "CNPJ": "",
+        "build": "10943",
+        "assunto": ""
+    },
+    {
+        "cliente": "Samara",
+        "contato": "",
+        "description": "32678\nFalta de carga",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Diana",
+        "contato": "",
+        "description": "443696\n607285\n2BD282.B82261.196AE5.29C7EE.D831AB.EC1B73.23D0ED",
+        "CNPJ": "",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Iran",
+        "contato": "CHAT",
+        "description": "Foram geradas duas chaves como solicitado pela revenda.\n\nCNPJ: 08.043.701/0001-10\nSerie: 4467\nMotivo: Troca de Controle \nChave: 38325E.D10982.8E22E6.297C9C.1D4802.D3DB0D.717D40\n-\nCNPJ: 09.067.573/0001-07\nSerie: 31147\nMotivo: Troca de Controle \nChave: 03D761.218E72.19CA96.236B00.85E5AD.D18226.B6BD77",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Willian",
+        "contato": "",
+        "description": "643728\n516037\n1127399700\n2pt45fax\n\n9BC4E0.1128DA.99C062.EEBA30.DB899B.302FD4.D35678",
+        "CNPJ": "",
+        "build": "24035",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Davi",
+        "contato": "",
+        "description": "\nSolicitante: Davi\nCNPJ: 13.535.994/0001-92\nSerie: 15759\nControle: 960614",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Daniele",
+        "contato": "",
+        "description": "443796\n169088\n2B2282.E82267.496AE5.29C6E3.9D311B.0C1D73.23D0ED\n\n12es4tg3\n7D22EE.339296.AE2963.219B12.2BC527.0C038E.1DD6D8",
+        "CNPJ": "23764398000138",
+        "build": "24565",
+        "assunto": ""
+    },
+    {
+        "cliente": "Jonh",
+        "contato": "",
+        "description": "hd mudou de lugar\n633207\n971931\nPrecisamos mudar o HD de computador e agora o sistema está solicitado uma chave com mudança de controle.\n69831D.36978A.62E5C0.39D7B8.5E5232.812667.059985",
+        "CNPJ": "",
+        "build": "24137",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "443530\n564277\n800F7D.DBE017.6B1641.168801.CE3282.D6850E.288DD8\n898798252\n972h3jct\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Guilherme",
+        "contato": "",
+        "description": "12443\n656366 ----- Mudei a versão do cliente e agora preciso de uma chave com troca de controle.\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Rafael",
+        "contato": "",
+        "description": "443604\n705339\n8C0E75.3B69D2.628491.108901.CE3282.76155C.288AE8",
+        "CNPJ": "",
+        "build": "23446",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "leila",
+        "contato": "",
+        "description": "33140\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Manuel",
+        "contato": "",
+        "description": "2023\n565489",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Zenete",
+        "contato": "",
+        "description": "29153\ncarga",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Sergio",
+        "contato": "",
+        "description": "24886\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "erich",
+        "contato": "",
+        "description": "primeira chave\n443958\n672694\n0568B1.388097.79E0C2.03F102.07E16A.21C284.8A24D2\n4470",
+        "CNPJ": "",
+        "build": "26007",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Lorena",
+        "contato": "",
+        "description": "Queda de energia\n059187\n9D8F39.120EE2.A2B860.150A3D.751B11.302119.2AA688",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Gledfson",
+        "contato": "",
+        "description": "978803\n934618416\n7bv9cc7v",
+        "CNPJ": "",
+        "build": "25816",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcia",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "25960",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Davi",
+        "contato": "",
+        "description": "15759\n960614",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "marcela",
+        "contato": "",
+        "description": "639779",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Flavia",
+        "contato": "",
+        "description": "633184\n27.890.808/0001-48 - Flavia",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Pedro",
+        "contato": "",
+        "description": "636220\n400560",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "VAREJO FÁCIL - 31213"
+    },
+    {
+        "cliente": "Jessica",
+        "contato": "",
+        "description": "642801\n694579",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Sara",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Eliane",
+        "contato": "",
+        "description": "33281\n868728\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ELISANGELA",
+        "contato": "",
+        "description": "Não foi possível realizar a geração de chave, foi orientado a Revenda entrar em contato com o Sr Nelcimar Colares ou com o setor de Canais para esclarecer melhor o motivo e assim caso seja possível, gerarmos uma chave para a versão solicitada.\n\n25087\n110781",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Mayra",
+        "contato": "",
+        "description": "12798\n266615\nformatação da maquina.\n734211719\nsmaquinas35",
+        "CNPJ": "10609485000179",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "João",
+        "contato": "",
+        "description": "443565\nReinstalação \n046954\ne5p4hri7",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Natalia",
+        "contato": "",
+        "description": "online",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "KELLY",
+        "contato": "",
+        "description": "v85vs7\nOrientei gerar pelo site.",
+        "CNPJ": "",
+        "build": "23105",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Tamires",
+        "contato": "",
+        "description": "638822\n770756",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Davison",
+        "contato": "",
+        "description": "588536\nonline",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Maira",
+        "contato": "",
+        "description": "2946\n708140\n3856E3.9A090F.BA4804.455BA5.279C02.E38809.8D8320",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Eliane",
+        "contato": "",
+        "description": "442716\n710582\ndopeixechico@gmail.com",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "LILIVANE",
+        "contato": "",
+        "description": "635114\n750899\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "643171\n087846\n19\nformatação do servidor\n7C305E.48B288.C8B2E3.4D1739.2F8868.0981A0.7C4528",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "72.231.160/0002-33",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Nicolas",
+        "contato": "",
+        "description": "70.148.408/0001-90\n15055\nnicolafsilva@gmail.com\n84987190504",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "nonato",
+        "contato": "",
+        "description": "442447",
+        "CNPJ": "08726387000170",
+        "build": "24327",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Geovani",
+        "contato": "",
+        "description": "18.134.979/0001-56",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "jackson",
+        "contato": "",
+        "description": "635637",
+        "CNPJ": "01015811000200",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Felipe",
+        "contato": "",
+        "description": "643390\nh3x5mjnr\n9C838D.79B832.A7B769.6ADA35.658C7F.302056.4C4A88",
+        "CNPJ": "08220042000220",
+        "build": "25744",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JULIA",
+        "contato": "",
+        "description": "32549\n074946",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Alyson",
+        "contato": "CHAT",
+        "description": "Foi gerado uma chave para o cliente como solicitado pela revenda pois o computador dele foi para a garantia.\nChave gerada: 5CCF91.86B30B.A3750C.FE08BC.583223.763841.134A59",
+        "CNPJ": "00062636000168",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "LIDUINA",
+        "contato": "",
+        "description": "30131\n727071",
+        "CNPJ": "22976650000100",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ricardo",
+        "contato": "",
+        "description": "643797\n058220\n936279239\n0F8899.5C8E99.22C93E.938F03.D8E56C.4182A5.549D63",
+        "CNPJ": "",
+        "build": "26001",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Alexandre",
+        "contato": "",
+        "description": "6883FD.560170.22B8D0.375728.B1343A.802E65.9DA1D5",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Luciana",
+        "contato": "",
+        "description": "642837\n608636\n609646704\n551r3xzq",
+        "CNPJ": "43663521000131",
+        "build": "25242",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Nicolas",
+        "contato": "",
+        "description": "Troca da maquina\n21628\n526746\n135F3A.D662E1.C97819.07F8FC.A6E86D.084853.985115",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Savia",
+        "contato": "",
+        "description": "ONLINE-F5",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luana Rebeca",
+        "contato": "",
+        "description": "443948\n603785\n\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Liliane",
+        "contato": "",
+        "description": "633898\n129504",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "João",
+        "contato": "",
+        "description": "443765\n399765\n5C8091.86D63F.570B68.FE08BC.D83223.725851.B54ED9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Paula",
+        "contato": "",
+        "description": "443409\n896701\n5C3991.86C92E.A6D91E.FE08BC.583223.72E851.BF46D9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Every",
+        "contato": "",
+        "description": "443337\n63dddsyt",
+        "CNPJ": "",
+        "build": "12538",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rebeca",
+        "contato": "",
+        "description": "635398\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vanessa",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "633096\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Vanessa",
+        "contato": "",
+        "description": "",
+        "CNPJ": "03590562000120",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Aline",
+        "contato": "",
+        "description": "443786\n946661\n854262142\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "ligará novamente.",
+        "CNPJ": "28198535000138",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "633995\n357027",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Everton",
+        "contato": "",
+        "description": "30232\n828790\n583DE1.2349D9.FF9B47.6E081C.105203.D278C5.746819",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Janderson",
+        "contato": "",
+        "description": "9B830D.812CCE.65A10E.566A3D.D58356.3029F6.692288",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Leandro",
+        "contato": "",
+        "description": "643220",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Leandro",
+        "contato": "",
+        "description": "643220",
+        "CNPJ": "41819904000120",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Everson",
+        "contato": "",
+        "description": "formatado maquina\n443486\n600044\n9FCE01.53254D.78E58E.29E82E.915DE6.302070.60B788",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Nicole",
+        "contato": "",
+        "description": "ONLINE",
+        "CNPJ": "",
+        "build": "23311",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Aimee",
+        "contato": "",
+        "description": "640826\n773693.B99295.C22963.DD6521.2E8438.0512A9.D37A48",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "artemisia",
+        "contato": "",
+        "description": "643329\n578680\n230AA2.382261.90EAE8.31139F.99A5EE.A89C89.4370FB\n7n9tmux9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Maira",
+        "contato": "",
+        "description": "640959\n876718",
+        "CNPJ": "",
+        "build": "24006",
+        "assunto": ""
+    },
+    {
+        "cliente": "Airton",
+        "contato": "",
+        "description": "442960\n634952\nm4ef6fdb",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "GILSON",
+        "contato": "",
+        "description": "34321\n666668\n942628889\n5C6C11.32C3A4.4F6A9E.EE08AC.093203.32A82F.D57699",
+        "CNPJ": "",
+        "build": "23584",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fabiana",
+        "contato": "",
+        "description": "638803\nCARGA",
+        "CNPJ": "",
+        "build": "20532",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Geovani",
+        "contato": "",
+        "description": "35526\n738847",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcela",
+        "contato": "",
+        "description": "639779\n565690",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ian",
+        "contato": "",
+        "description": "61\n762466\n9dzci9gm\n670548.D0B1DA.660470.3E5F68.1ECC07.8F2EF3.0C002B",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Tiago",
+        "contato": "",
+        "description": "21448",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "LILIAN",
+        "contato": "",
+        "description": "637396\n066854",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Vanesca",
+        "contato": "",
+        "description": "36104\n99577",
+        "CNPJ": "10457825000193",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Marcos",
+        "contato": "",
+        "description": "Foram gerados as seguintes chaves para os respectivos clientes como solicitado pela revenda.\n\nMotivo: Renovação\nCNPJ: 24.443.590/0001-95\nChave: 6EE140.DE77E1.A942C0.3091C8.059C5E.8F15D0.0DBB32\nRevenda gerou pelo site.\n\nMotivo: Renovação\nCNPJ: 33.681.055/0001-63\nChave: 38A5AE.0F098E.DA8900.0B72D0.AB0CA2.13643F.658CAE\nRevenda não consegui gerar pelo site.",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Rosilda",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Antanio",
+        "contato": "",
+        "description": "7599\n618E41.0A8A63.A1D940.3F2CA8.9ECC02.8929D2.050B24\nOCORRÊNCIA RELATADA:\n\nPreciso de uma chave para meu sistema. Pois consigo gerar online.\n\n \n\nPROCEDIMENTO EXECUTADO:\n\nFoi gerado uma chave para o cliente como solicitado\n\n \n\nRESULTADO:\n\nChave gerada com sucesso",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Cleber",
+        "contato": "",
+        "description": "634232\n185750\n2DC292.084268.696AEB.39C3B2.1A563B.021C89.23D0ED",
+        "CNPJ": "",
+        "build": "24530",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Virginia",
+        "contato": "",
+        "description": "672\n38BAFE.8A0A48.E631C1.40DB13.017C02.B39B0E.138D3F",
+        "CNPJ": "",
+        "build": "25599",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Carlos Robson",
+        "contato": "",
+        "description": "443352\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "pedro",
+        "contato": "",
+        "description": "14266\n706875\n952992245",
+        "CNPJ": "",
+        "build": "26095",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Joao",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "25065",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "RODRIGUES",
+        "contato": "",
+        "description": "RODRIGUES\n639515\n997315\n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "24.723.341/0001-53\n639554\n\n\n639801\n\n\n071840",
+        "CNPJ": "28778244000208",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Rodrigo",
+        "contato": "",
+        "description": "11550\n682894\n2DA212.E84F48.0964E0.09C9B3.11553B.B81D89.23D0ED",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "NEY",
+        "contato": "",
+        "description": "",
+        "CNPJ": "07461978000108",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Jose",
+        "contato": "",
+        "description": "638579",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JOCILANE",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ronaldo",
+        "contato": "",
+        "description": "12976\n730683\n383673.160EAC.002742.4F9465.2D1812.135B09.2D8D97",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Marcelo",
+        "contato": "",
+        "description": "21668\n746060\n-\n642800\n107373\nmarcelo@mslz.com.br\n85991367410",
+        "CNPJ": "03720882002878",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jackson",
+        "contato": "",
+        "description": "635637\nONLINE",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Fernando",
+        "contato": "",
+        "description": "fernandoacarioca@hotmail.com\nONLINE-F5",
+        "CNPJ": "23542780000105",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "KARINA",
+        "contato": "",
+        "description": "\ne3d37x\n",
+        "CNPJ": "",
+        "build": "17564",
+        "assunto": ""
+    },
+    {
+        "cliente": "Artemizia",
+        "contato": "",
+        "description": "640748\n689317\njose.cleiltonn@gmail.com",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "85992274075"
+    },
+    {
+        "cliente": "Loren",
+        "contato": "",
+        "description": "CAIU A LIGAÇÂO",
+        "CNPJ": "30347071000126",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Leiliane",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Eduardo",
+        "contato": "",
+        "description": "636435",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Anderson",
+        "contato": "",
+        "description": "3hv66n",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Val",
+        "contato": "",
+        "description": "32809",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "MAINARA",
+        "contato": "",
+        "description": "635550",
+        "CNPJ": "41305343000141",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Nicolas",
+        "contato": "",
+        "description": "Troca de maquina\n22424\n666270",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "VAREJO FÁCIL - 31213"
+    },
+    {
+        "cliente": "Silvio",
+        "contato": "",
+        "description": "442507\n469915\nTroca de servidor",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "CANAIS - 31198"
+    },
+    {
+        "cliente": "Sabrina",
+        "contato": "",
+        "description": "643162\n569376",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "TAINA",
+        "contato": "",
+        "description": "640134\n446804",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Nadir",
+        "contato": "",
+        "description": "",
+        "CNPJ": "63547228000116",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Auricelia",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "ney",
+        "contato": "",
+        "description": "NEY",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Jailson",
+        "contato": "",
+        "description": "643843\n884369",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Antonia",
+        "contato": "",
+        "description": "38536E.7C0FB5.A666E7.9C231B.8B5CA2.133232.A48F9C\n",
+        "CNPJ": "17844190000126",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Leones",
+        "contato": "",
+        "description": "Servidor trocou\n30165\n999500\n18 Dias",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "5814D1.A21926.9D4253.9E08CE.5A7233.E77975.6A0690",
+        "CNPJ": "",
+        "build": "24565",
+        "assunto": ""
+    },
+    {
+        "cliente": "Karina",
+        "contato": "",
+        "description": "636384\n896938\npjwxragd\n\n12.975.048/0002-85\n38077E.0A024D.96066E.DB4C9E.255812.932900.D19013",
+        "CNPJ": "",
+        "build": "22231",
+        "assunto": ""
+    },
+    {
+        "cliente": "Luis",
+        "contato": "",
+        "description": "639773\n887394\n85998532320\n643567\n\nclubinhopet@outlook.com",
+        "CNPJ": "",
+        "build": "25690",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "NIlton",
+        "contato": "",
+        "description": "21924\n838959\n908EC1.8996E2.21D26D.A50101.35F3C9.3029FC.04A898\nrzt6mq9n",
+        "CNPJ": "",
+        "build": "24833",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "laide",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "JUCILENE",
+        "contato": "",
+        "description": "35635\n760862",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Arquinael",
+        "contato": "",
+        "description": "443933\n302999\n272282.18D268.596AE6.29C8C6.58D179.EC1E9B.2300ED\n",
+        "CNPJ": "23257205000152",
+        "build": "25816",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "DANIEL",
+        "contato": "",
+        "description": "1538",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "CONTRATOS - 31199"
+    },
+    {
+        "cliente": "Magno",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "VANESSA",
+        "contato": "",
+        "description": "636694",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Claudio",
+        "contato": "",
+        "description": "637286",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "MITCHA",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Camila",
+        "contato": "",
+        "description": "640757\n986488",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Romulo",
+        "contato": "",
+        "description": "640080",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "SIMONE",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Alana",
+        "contato": "",
+        "description": "640505\n045874",
+        "CNPJ": "13837409000109",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "Laercio",
+        "contato": "",
+        "description": "1347883624\nr6tpqu6a\n",
+        "CNPJ": "07075138003114",
+        "build": "17187",
+        "assunto": "",
+        "tranferencia": "SYSPDV - 31212"
+    },
+    {
+        "cliente": "Rangel",
+        "contato": "",
+        "description": "443909\n987196\n5CEF21.84662E.A6D907.1E083C.046223.A23961.792699\n\n\n618957\nOsmar",
+        "CNPJ": "21010373000113",
+        "build": "23446",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Eurico",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "CIDCLEI",
+        "contato": "",
+        "description": "14272\n786050\n58982D.1A4240.CBDE4E.130815.D49203.89E945.3F2A29",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Isabele",
+        "contato": "",
+        "description": "31961",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Evelim",
+        "contato": "",
+        "description": "639980\n939081",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Marcio",
+        "contato": "",
+        "description": "164619\ns75jkf81\nRevenda gerou pelo portal",
+        "CNPJ": "",
+        "build": "25853",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Tiago",
+        "contato": "",
+        "description": "3058\n456271\n7A004E.819898.548183.255992.218489.0C3A08.132BD8\natualização de versão",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Matheus",
+        "contato": "",
+        "description": "643459\n058815\n38C20E.6903D6.4A87A8.27B45C.9508A2.139139.A1928A",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Val - Segunda",
+        "contato": "",
+        "description": "03887903000124\nLuana falou que estava liberado, a cliente fez o pagamento e mandou o comprovante.",
+        "CNPJ": "03887903000124",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Paula",
+        "contato": "TICKET PENDENTE",
+        "description": "Team -\n1088840242 - \nevadp5gr - \nChave gerada pelo site - \nChave:\n384973.340223.6694B6.611D27.A16C82.B36821.1D931B",
+        "CNPJ": "20690641000122",
+        "build": "0",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Isabela",
+        "contato": "",
+        "description": "33767172000144\nTeam - \n1104124028\ncfpvyeud\n- \nIdentifiquei que o cliente estava abrindo o SysPDV PDA ao invés do SysPDV Server, então realizei a exclusão do atalho errado (SysPDV PDA) e deixei apenas o que o cliente usava.",
+        "CNPJ": "33767172000144",
+        "build": "25690",
+        "assunto": "SysPDV - Meu sistema está diferente."
+    },
+    {
+        "cliente": "Patricia",
+        "contato": "",
+        "description": "69700672000106\n635812\n966080\n9F8FD9.290EE2.A1B766.796930.25D118.30214F.3DAA98\nChave gerada com mudança de controle por inatividade depois clicado em ONLINE-F5",
+        "CNPJ": "69700672000106",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Gabriel",
+        "contato": "",
+        "description": "Serie: 20233\nControle: 025157\n-\nTeam\n816328401\n2r7bg933\n-\nCliente não consegue gera ONLINE pois é de revenda. Gerei uma chave de renovação.\n1DC6B0.D5923D.59E3E9.0088D1.476860.093803.6D5141",
+        "CNPJ": "15346045000270",
+        "build": "20517",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Luis",
+        "contato": "",
+        "description": "13893700000285\n1C4226.09A2E1.C9191D.098A41.56C8BB.593903.6DAD0B\n-\nOrientei o cliente a gerar a chave pelo site.",
+        "CNPJ": "13893700000285",
+        "build": "664",
+        "assunto": "SysPDV - Geração de Chave"
+    },
+    {
+        "cliente": "Ari",
+        "contato": "",
+        "description": "577650\n58C162.91092E.42BB86.8E0892.7D7233.0419F5.0B3616\n\n- \nFiz a mudança de controle como solicitado pelo cliente depois que ele teve que colocar o HD em outro computador.\nLogo depois gerou a chave pelo ONLINE-F5.\n-\n",
+        "CNPJ": "11719887000199",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Emanuele",
+        "contato": "",
+        "description": "Carga PDV",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Geração de Chave",
+        "tranferencia": "SEM TRANSFERENCIA"
+    },
+    {
+        "cliente": "Tiago",
+        "contato": "",
+        "description": "634484\n255280\n698E67.AE788B.E727C0.3449E8.8F3634.9B2A9D.F59B60",
+        "CNPJ": "",
+        "build": "24107",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Edivan",
+        "contato": "",
+        "description": "840FC1.7561BA.E29909.6938FD.8F3056.18C5B1.228AE9",
+        "CNPJ": "",
+        "build": "",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "MARCOS",
+        "contato": "",
+        "description": "15442\n716087",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "Tonny",
+        "contato": "",
+        "description": "Serie: 637973\nControle: 727871\n19.0\n643885 nova serie\nFoi gerada um chave para o novo CNPJ conforme solicitado e orientando ao cliente ver com sua contabilidade as questões dos cadastros e impostos, visto que o cliente queria saber como proceder. Logo depois passei a orientação de entrar em contato conosco para o auxilio nesses cadastros.\n\n \n\nRESULTADO:\n\nChave gerada com sucesso\n\n58EBF4.AFB22E.28F80E.65089A.0D4233.EDF995.CC6661\n",
+        "CNPJ": "45740044000196",
+        "build": "20071",
+        "assunto": ""
+    },
+    {
+        "cliente": "Lisandra",
+        "contato": "",
+        "description": "",
+        "CNPJ": "19161585000150",
+        "build": "",
+        "assunto": "",
+        "tranferencia": "FINANCEIRO - 31205"
+    },
+    {
+        "cliente": "SR BERG",
+        "contato": "",
+        "description": "443768",
+        "CNPJ": "",
+        "build": "24565",
+        "assunto": "SysPDV - Troca de Controle"
+    },
+    {
+        "cliente": "Jonh",
+        "contato": "",
+        "description": "Serie: 633207\nControle: 157689\nTroca do servidor",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    },
+    {
+        "cliente": "",
+        "contato": "",
+        "description": "teste",
+        "CNPJ": "",
+        "build": "",
+        "assunto": ""
+    }
+]
