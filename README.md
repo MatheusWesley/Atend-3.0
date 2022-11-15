@@ -13,12 +13,12 @@
 
 ## Instalação
  ### Para realizar a instalação tenha esses pre-requisitos
- - NodeJS a na versão 16 ou superior
+ - NodeJS na versão 16 ou superior
  - NPM na versão 8 ou superior
-    - Caso não tenha nenhum dos dois você conseque baixar neste [link](https://nodejs.org/en/).
- - Baixar esse Repositório em sua maquina.
+    - Caso não tenha nenhum dos dois você consegue baixar neste [link](https://nodejs.org/en/).
+ - Vai precisar também baixar esse Repositório em sua maquina.
     - Para realizar isso basta clicar em **Code > Download Zip**
-        - Casol tenha um conhecimento a mais, pode usar as funções de *HTTPS, SSH GitHub CLI*.
+        - Caso tenha um conhecimento a mais, pode usar as funções de *HTTPS, SSH ou GitHub CLI*.
 
 ### Processo de instalação e execução
 
