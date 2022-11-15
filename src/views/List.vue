@@ -1,10 +1,20 @@
 <template>
   <div class="container mt-2">
-    <b-alert show>
-      Olá, você tem <b>{{ tasks.length }}</b> atendimentos criados!
+    <b-alert show variant="primary">
+      <h4 class="alert-heading">Listagem de atendimentos</h4> 
+      Numero de atendientos criados: <b>{{ tasks.length }}</b>
+      <hr>
+      <b-form-group
+      id="search-atendimento"
+      description="Informe aqui apenas o assunto."
+      label="Busca na lista de atendimentos."
+      label-for="search"
+    >
+      <b-form-input id="search" v-model="search" trim></b-form-input>
+    </b-form-group>
     </b-alert>
     <!-- LISTAGEM COMEÇA AQUI -->
-    <div v-for="(task, index) in tasks" :key="index">
+    <div v-for="(task, index) in filteredList" :key="index">
       <b-card
         :title="task.cliente"
         :sub-title="task.tranferencia"
@@ -87,6 +97,7 @@ export default {
       taskSelected: [],
       fields: ["cliente", "CNPJ", "assunto", "mais_detalhes"],
       tasks: [],
+      search: null,
       //dismissSecs: 5,
       //dismissCountDown: 0,
       showDismissibleAlert: false,
@@ -128,8 +139,22 @@ export default {
   },
   components: {
     'vue-markdown': VueMarkdown,
+  },
+  computed: {
+    filteredList() {
+      if (this.search) {
+        return this.tasks.filter(item => {
+          return this.search
+            .toLowerCase()
+            .split(" ")
+            .every(v => item.assunto.toLowerCase().includes(v));
+        });
+      } else {
+        return this.tasks;
+      }
+    }
   }
-};
+}
 </script>
 
 <style>

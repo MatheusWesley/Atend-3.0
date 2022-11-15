@@ -1,5 +1,8 @@
 <template>
   <div class="container mt-3 align-items-center">
+    <b-alert show variant="primary">
+      <h4 class="alert-heading">Novo Atendimento</h4> 
+      <hr>
     <b-form novalidate>
       <!-- CAMPO NOME DO CLIENTE -->
       <b-input-group class="mb-2 mr-sm-2 mb-sm-1">
@@ -119,6 +122,7 @@
       </b-input-group>
       <!-- FIM DESCRIÇÃO -->
       <!-- BOTÕES -->
+      <hr>
       <b-button-group size="sm" class="mt-2">
         <b-button type="button" variant="info" @click="saveTask">
           <b-icon icon="archive-fill" aria-hidden="true"></b-icon> Salvar
@@ -129,6 +133,7 @@
       </b-button-group>
       <!-- FIM BOTÕES -->
     </b-form>
+  </b-alert>
   </div>
 </template>
 

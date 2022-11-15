@@ -1,5 +1,8 @@
 <template>
   <div class="container mt-2">
+    <b-alert show variant="danger">
+      <h4 class="alert-heading">Nova Resolução</h4> 
+      <hr>
     <b-form @submit="onSubmit" @reset="onReset" v-if="show">
       <b-form-group id="input-group-1" label="Titulo da resolução" label-for="input-1"
         description="Digite aqui um titulo para o problema resolvido.">
@@ -22,6 +25,7 @@
       <b-button type="submit" variant="primary" class="mr-1">Criar</b-button>
       <b-button type="reset" variant="danger">Limpar</b-button>
     </b-form>
+  </b-alert>
   </div>
 </template>
   

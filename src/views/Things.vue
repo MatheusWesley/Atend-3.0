@@ -1,9 +1,19 @@
 <template>
   <div class="container mt-2">
     <b-alert show variant="danger">
-      Olá, você tem <b>{{ problemSolved.length }}</b> soluções criadas!
+      <h4 class="alert-heading">Listagem de soluções</h4> 
+      Numero de soluções criadas: <b>{{ problemSolved.length }}</b>
+      <hr>
+      <b-form-group
+      id="search-solution"
+      description="Informe aqui apenas o titulo."
+      label="Qual sua duvida?"
+      label-for="search"
+    >
+      <b-form-input id="search" v-model="search" trim></b-form-input>
+    </b-form-group>
     </b-alert>
-    <div v-for="(problem, index) in problemSolved" :key="index">
+    <div v-for="(problem, index) in filteredList" :key="index">
       <b-card
       :title="problem.title"
       :sub-title="'by: ' + problem.name"
@@ -24,7 +34,7 @@
           <b-icon icon="trash2-fill" aria-hidden="true"></b-icon>
         </b-button>
       </b-card>
-    </div>
+  </div>
     <!---------------------------------->
     <b-modal
       ref="modalRemove"
@@ -62,12 +72,16 @@ import ToastMixin from "@/mixins/toastMixin.js";
 export default {
   name: "Things",
   problemSelected: [],
-  problemSolved: [],
   mixins: [ToastMixin],
   components: {
     'vue-markdown': VueMarkdown,
   },
-
+  data() {
+    return {
+      search: null,
+      problemSolved: [],
+    }
+  },
   created() {
 
   this.problemSolved = localStorage.getItem("problemSolved")
@@ -95,8 +109,21 @@ methods: {
       this.showToast("danger", "Excluido!", "Uma solução foi excluida.");
       window.location.reload(true)
     },
-}
-
+},
+computed: {
+    filteredList() {
+      if (this.search) {
+        return this.problemSolved.filter(item => {
+          return this.search
+            .toLowerCase()
+            .split(" ")
+            .every(v => item.title.toLowerCase().includes(v));
+        });
+      } else {
+        return this.problemSolved;
+      }
+    }
+  }
 }
 
 </script>
